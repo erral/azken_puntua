@@ -8,7 +8,7 @@ on:
 
   schedule:
   #- cron: "0 10, * * *"
-  - cron: "57 * * * *"
+  - cron: "59 * * * *"
 
 permissions:
   contents: read
