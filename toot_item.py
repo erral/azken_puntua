@@ -40,18 +40,22 @@ def get_random_item_to_toot():
 def toot_item(item):
     """effectively toot the text"""
     text = "{text} \n\n{singer}\n{url}"
-    text = text.format(text=item["text"], singer=item["singer"], url=item["url"])
+    azken_puntua = item.get("text", "")
+    singer = item.get("singer", "")
+    if azken_puntua and singer:
+        url = item.get("url", "")
+        text = text.format(text=azken_puntua, singer=singer, url=url)
 
-    text = text.strip()
+        text = text.strip()
 
-    if text:
-        api = Mastodon(
-            access_token=os.environ.get("ACCESS_TOKEN"),
-            api_base_url="https://mastodon.eus",
-        )
-        res = api.toot(text)
-        if res.get("id"):
-            print('Tooted: "{}"'.format(text))
+        if text:
+            api = Mastodon(
+                access_token=os.environ.get("ACCESS_TOKEN"),
+                api_base_url="https://mastodon.eus",
+            )
+            res = api.toot(text)
+            if res.get("id"):
+                print(f'Tooted: "{text}"')
 
 
 if __name__ == "__main__":
