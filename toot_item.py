@@ -32,7 +32,7 @@ def get_random_item_to_toot():
     dictionary.append(word)
 
     with open("azken_puntuak.json", "w") as fp:
-        json.dump(dictionary, fp)
+        json.dump(dictionary, fp, indent=4)
 
     return word
 
