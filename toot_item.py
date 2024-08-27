@@ -43,17 +43,13 @@ def toot_item(item):
     text = text.strip()
 
     if text:
-
-        with open("credentials.mastodon.json") as fp:
-            credentials = json.load(fp)
-
-            api = Mastodon(
-                access_token=os.environ.get("ACCESS_TOKEN"),
-                api_base_url="https://mastodon.eus",
-            )
-            res = api.toot(text)
-            if res.get("id"):
-                print('Tooted: "{}"'.format(text))
+        api = Mastodon(
+            access_token=os.environ.get("ACCESS_TOKEN"),
+            api_base_url="https://mastodon.eus",
+        )
+        res = api.toot(text)
+        if res.get("id"):
+            print('Tooted: "{}"'.format(text))
 
 
 if __name__ == "__main__":
