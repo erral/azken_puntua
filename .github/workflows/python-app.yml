@@ -4,9 +4,11 @@
 name: Python application
 
 on:
+  workflow_dispatch:
+
   schedule:
   #- cron: "0 10, * * *"
-  - cron: "54 * * * *"
+  - cron: "57 * * * *"
 
 permissions:
   contents: read
