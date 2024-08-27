@@ -6,6 +6,7 @@ import json
 import datetime
 import random
 from mastodon import Mastodon
+import os
 
 
 def toot_item_from_list():
@@ -47,7 +48,7 @@ def toot_item(item):
             credentials = json.load(fp)
 
             api = Mastodon(
-                access_token=credentials["ACCESS_TOKEN"],
+                access_token=os.environ.get("ACCESS_TOKEN"),
                 api_base_url="https://mastodon.eus",
             )
             res = api.toot(text)
