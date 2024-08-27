@@ -18,10 +18,12 @@ def toot_item_from_list():
 
 def get_random_item_to_toot():
     """select an untooted item"""
+    word = {}
     with open("azken_puntuak.json", "r") as fp:
         dictionary = json.load(fp)
+        not_tweeted = [item for item in dictionary if "tweeted" not in item]
         word = random.choice(dictionary)
-        while word and word.get("tweeted"):
+        while not_tweeted and word and word.get("tweeted"):
             word = random.choice(dictionary)
 
     word["tweeted"] = True
