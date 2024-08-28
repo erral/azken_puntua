@@ -56,28 +56,30 @@
         "singer": "Igor Elortza"
     },
     {
-        "text": "nere eskutan baldin badago\nni ez naiz ohean hilko",
-        "singer": "Andoni Egaña",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
-    },
-    {
         "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
-        "singer": "Andoni Egaña",
+        "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
     },
     {
         "text": "ni bezelako gizon batentzat\nez ote da zoritxarra,\nitsasoa hain hurbil izan da\nohean egon beharra.",
-        "singer": "Andoni Egaña",
+        "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
     },
     {
         "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
-        "singer": "Andoni Egaña",
+        "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94"
     },
     {
         "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
         "singer": "Onintza Enbeita",
         "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra"
+    },
+    {
+        "text": "nere eskutan baldin badago\nni ez naiz ohean hilko",
+        "singer": "Andoni Ega\u00f1a",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
+        "tweeted": true,
+        "tweeted_at": "2024-08-28T09:15:25.504415"
     }
 ]
