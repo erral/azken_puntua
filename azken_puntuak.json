@@ -57,11 +57,6 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
     },
     {
-        "text": "ni bezelako gizon batentzat\nez ote da zoritxarra,\nitsasoa hain hurbil izan da\nohean egon beharra.",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
-    },
-    {
         "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94"
@@ -89,5 +84,12 @@
         "url": "",
         "tweeted": true,
         "tweeted_at": "2024-08-29T09:15:26.935921"
+    },
+    {
+        "text": "ni bezelako gizon batentzat\nez ote da zoritxarra,\nitsasoa hain hurbil izan da\nohean egon beharra.",
+        "singer": "Andoni Ega\u00f1a",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
+        "tweeted": true,
+        "tweeted_at": "2024-08-30T09:15:22.369889"
     }
 ]
