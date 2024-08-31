@@ -27,11 +27,6 @@
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi"
     },
     {
-        "text": "nahi gabe joaten zaizkit\nhatzamarrak eztarrira",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi"
-    },
-    {
         "text": "Nere inon ez egon nahia ote\nda zure ezinegona.",
         "singer": "Maialen Lujanbio",
         "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17"
@@ -91,5 +86,12 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
         "tweeted": true,
         "tweeted_at": "2024-08-30T09:15:22.369889"
+    },
+    {
+        "text": "nahi gabe joaten zaizkit\nhatzamarrak eztarrira",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+        "tweeted": true,
+        "tweeted_at": "2024-08-31T09:15:02.789348"
     }
 ]
