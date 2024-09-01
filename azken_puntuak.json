@@ -42,11 +42,6 @@
         "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze"
     },
     {
-        "text": "bihar goizean berdin-berdin zait\nze eguraldi ze giro\netorriko naiz berriro",
-        "singer": "Igor Elortza",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/k7lv8"
-    },
-    {
         "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
@@ -93,5 +88,12 @@
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
         "tweeted": true,
         "tweeted_at": "2024-08-31T09:15:02.789348"
+    },
+    {
+        "text": "bihar goizean berdin-berdin zait\nze eguraldi ze giro\netorriko naiz berriro",
+        "singer": "Igor Elortza",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/k7lv8",
+        "tweeted": true,
+        "tweeted_at": "2024-09-01T09:15:06.337775"
     }
 ]
