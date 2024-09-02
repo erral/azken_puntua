@@ -32,11 +32,6 @@
         "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17"
     },
     {
-        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
-        "singer": "Amets Arzalluz",
-        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus"
-    },
-    {
         "text": "ta gaur ez zaude Arenan baina\noholtzan nerekin zaude",
         "singer": "Aitor Mendiluze",
         "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze"
@@ -95,5 +90,12 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/k7lv8",
         "tweeted": true,
         "tweeted_at": "2024-09-01T09:15:06.337775"
+    },
+    {
+        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
+        "singer": "Amets Arzalluz",
+        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
+        "tweeted": true,
+        "tweeted_at": "2024-09-02T09:15:40.942996"
     }
 ]
