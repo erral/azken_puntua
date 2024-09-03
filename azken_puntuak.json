@@ -47,11 +47,6 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94"
     },
     {
-        "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
-        "singer": "Onintza Enbeita",
-        "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra"
-    },
-    {
         "text": "nere eskutan baldin badago\nni ez naiz ohean hilko",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
@@ -97,5 +92,12 @@
         "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
         "tweeted": true,
         "tweeted_at": "2024-09-02T09:15:40.942996"
+    },
+    {
+        "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
+        "singer": "Onintza Enbeita",
+        "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra",
+        "tweeted": true,
+        "tweeted_at": "2024-09-03T09:15:21.353616"
     }
 ]
