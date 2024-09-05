@@ -7,11 +7,6 @@
         "tweeted_at": "2024-08-27T12:09:56.289201"
     },
     {
-        "text": "zuen txaloak beretzat dira\nnere txapela ere bai",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/juqc8"
-    },
-    {
         "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
         "singer": "Nerea Ibarzabal",
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi"
@@ -101,5 +96,12 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
         "tweeted": true,
         "tweeted_at": "2024-09-04T09:15:26.543589"
+    },
+    {
+        "text": "zuen txaloak beretzat dira\nnere txapela ere bai",
+        "singer": "Andoni Ega\u00f1a",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/juqc8",
+        "tweeted": true,
+        "tweeted_at": "2024-09-05T09:15:04.947134"
     }
 ]
