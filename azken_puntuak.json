@@ -17,11 +17,6 @@
         "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi"
     },
     {
-        "text": "arren sartu hatzamarrak\nta ateraizkidazu berbak",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi"
-    },
-    {
         "text": "Nere inon ez egon nahia ote\nda zure ezinegona.",
         "singer": "Maialen Lujanbio",
         "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17"
@@ -108,5 +103,12 @@
         "text": "ta ni kanpotik gizon plantetan\nbaina barrutik negarrez",
         "singer": "Aitor Bizkarra",
         "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra"
+    },
+    {
+        "text": "arren sartu hatzamarrak\nta ateraizkidazu berbak",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+        "tweeted": true,
+        "tweeted_at": "2024-09-06T09:15:19.503225"
     }
 ]
