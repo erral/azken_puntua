@@ -152,11 +152,6 @@
         "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia"
     },
     {
-        "text": "agur t'erdi Berriz\nhorren eder ikusi\nnahi zintuzket berriz!",
-        "singer": "Koldo Gezuraga",
-        "url": "https://bertsoa.eus/bertsoak/22959-bukaerako-agurra-koldo-gezuraga-seijido"
-    },
-    {
         "text": "gero ez etorri nire hiletara\nnegar batean txabales!\nbere sutea begiratzera\ndoan piromano bat lez!",
         "singer": "Xabat Galletebeitia",
         "url": "https://bertsoa.eus/bertsoak/23342-bakarka-gaia-emanda-xabat-galletebeitia-abaroa"
@@ -181,5 +176,12 @@
         "url": "https://bertsoeskola.eus/baliabideak/194/",
         "tweeted": true,
         "tweeted_at": "2024-09-09T09:15:42.576072"
+    },
+    {
+        "text": "agur t'erdi Berriz\nhorren eder ikusi\nnahi zintuzket berriz!",
+        "singer": "Koldo Gezuraga",
+        "url": "https://bertsoa.eus/bertsoak/22959-bukaerako-agurra-koldo-gezuraga-seijido",
+        "tweeted": true,
+        "tweeted_at": "2024-09-10T09:15:27.822999"
     }
 ]
