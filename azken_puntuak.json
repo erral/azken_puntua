@@ -117,11 +117,6 @@
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY"
     },
     {
-        "text": "bertsoaren indarrak agur eta erdi!\nbihurtu nazazue Jon Maia bider bi!",
-        "singer": "Jon Maia",
-        "url": "https://bertsoa.eus/bertsoak/14858-hasierako-agurra-jon-maia-btn17"
-    },
-    {
         "text": "nahiz eta izarren hautsa bilakatzen den bizigai\nbihar ez naiz joango eta egin zazue lo lasai",
         "singer": "Sustrai Colina",
         "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina"
@@ -188,5 +183,12 @@
         "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
         "singer": "Manex Agirre @manexagirre",
         "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa"
+    },
+    {
+        "text": "bertsoaren indarrak agur eta erdi!\nbihurtu nazazue Jon Maia bider bi!",
+        "singer": "Jon Maia",
+        "url": "https://bertsoa.eus/bertsoak/14858-hasierako-agurra-jon-maia-btn17",
+        "tweeted": true,
+        "tweeted_at": "2024-09-11T09:15:35.617768"
     }
 ]
