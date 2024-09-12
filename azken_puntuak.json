@@ -180,11 +180,6 @@
         "tweeted_at": "2024-09-10T09:15:27.822999"
     },
     {
-        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
-        "singer": "Manex Agirre @manexagirre",
-        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa"
-    },
-    {
         "text": "bertsoaren indarrak agur eta erdi!\nbihurtu nazazue Jon Maia bider bi!",
         "singer": "Jon Maia",
         "url": "https://bertsoa.eus/bertsoak/14858-hasierako-agurra-jon-maia-btn17",
@@ -197,13 +192,20 @@
         "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga"
     },
     {
-        "text": "trena gainera datorkidala\namesten baitet gauero",                
-        "singer": "Iñigo Mantzizidor \"Mantxi\"",
+        "text": "trena gainera datorkidala\namesten baitet gauero",
+        "singer": "I\u00f1igo Mantzizidor \"Mantxi\"",
         "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi"
     },
     {
         "text": "ni soilik nago oholtzan baina\nekipo bat gara!",
         "singer": "Amaia Agirre",
         "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre"
+    },
+    {
+        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
+        "singer": "Manex Agirre @manexagirre",
+        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
+        "tweeted": true,
+        "tweeted_at": "2024-09-12T09:15:27.187398"
     }
 ]
