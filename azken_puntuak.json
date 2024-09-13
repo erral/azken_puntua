@@ -112,11 +112,6 @@
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY"
     },
     {
-        "text": "jainkoaren zigorra\nez ote da izan",
-        "singer": "Jon Martin",
-        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY"
-    },
-    {
         "text": "nahiz eta izarren hautsa bilakatzen den bizigai\nbihar ez naiz joango eta egin zazue lo lasai",
         "singer": "Sustrai Colina",
         "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina"
@@ -212,7 +207,7 @@
         "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela"
-    },   
+    },
     {
         "text": "nik ja ohea ez dut ikusten\nbeste guztiek bezala",
         "singer": "Uxue Alberdi",
@@ -247,7 +242,12 @@
         "text": "argazkirikan ez izan arren\nhitzak jarriko ditugu",
         "singer": "Maialen Lujanbio",
         "url": "https://bertsoa.eus/bertsoak/8263-kartzela (29:15)"
-    }    
-    
-
+    },
+    {
+        "text": "jainkoaren zigorra\nez ote da izan",
+        "singer": "Jon Martin",
+        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
+        "tweeted": true,
+        "tweeted_at": "2024-09-13T09:15:17.728425"
+    }
 ]
