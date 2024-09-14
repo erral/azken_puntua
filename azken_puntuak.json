@@ -229,11 +229,6 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64"
     },
     {
-        "text": "baina kaskodun batek esan dit\nhemen ez da ezer pasa",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (24:30)"
-    },
-    {
         "text": "pasa ez denak erakusten du\nsarri asko pasa dena",
         "singer": "Maialen Lujanbio",
         "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)"
@@ -249,5 +244,12 @@
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
         "tweeted": true,
         "tweeted_at": "2024-09-13T09:15:17.728425"
+    },
+    {
+        "text": "baina kaskodun batek esan dit\nhemen ez da ezer pasa",
+        "singer": "Maialen Lujanbio",
+        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (24:30)",
+        "tweeted": true,
+        "tweeted_at": "2024-09-14T09:15:08.535233"
     }
 ]
