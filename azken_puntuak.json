@@ -17,11 +17,6 @@
         "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17"
     },
     {
-        "text": "ta gaur ez zaude Arenan baina\noholtzan nerekin zaude",
-        "singer": "Aitor Mendiluze",
-        "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze"
-    },
-    {
         "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
@@ -251,5 +246,12 @@
         "url": "https://bertsoa.eus/bertsoak/8263-kartzela (24:30)",
         "tweeted": true,
         "tweeted_at": "2024-09-14T09:15:08.535233"
+    },
+    {
+        "text": "ta gaur ez zaude Arenan baina\noholtzan nerekin zaude",
+        "singer": "Aitor Mendiluze",
+        "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze",
+        "tweeted": true,
+        "tweeted_at": "2024-09-15T09:15:19.203782"
     }
 ]
