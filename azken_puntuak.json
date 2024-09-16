@@ -229,11 +229,6 @@
         "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)"
     },
     {
-        "text": "argazkirikan ez izan arren\nhitzak jarriko ditugu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (29:15)"
-    },
-    {
         "text": "jainkoaren zigorra\nez ote da izan",
         "singer": "Jon Martin",
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
@@ -253,5 +248,12 @@
         "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze",
         "tweeted": true,
         "tweeted_at": "2024-09-15T09:15:19.203782"
+    },
+    {
+        "text": "argazkirikan ez izan arren\nhitzak jarriko ditugu",
+        "singer": "Maialen Lujanbio",
+        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (29:15)",
+        "tweeted": true,
+        "tweeted_at": "2024-09-16T09:16:08.803427"
     }
 ]
