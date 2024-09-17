@@ -224,11 +224,6 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64"
     },
     {
-        "text": "pasa ez denak erakusten du\nsarri asko pasa dena",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)"
-    },
-    {
         "text": "jainkoaren zigorra\nez ote da izan",
         "singer": "Jon Martin",
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
@@ -255,5 +250,12 @@
         "url": "https://bertsoa.eus/bertsoak/8263-kartzela (29:15)",
         "tweeted": true,
         "tweeted_at": "2024-09-16T09:16:08.803427"
+    },
+    {
+        "text": "pasa ez denak erakusten du\nsarri asko pasa dena",
+        "singer": "Maialen Lujanbio",
+        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)",
+        "tweeted": true,
+        "tweeted_at": "2024-09-17T09:15:14.173381"
     }
 ]
