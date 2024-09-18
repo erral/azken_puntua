@@ -127,11 +127,6 @@
         "url": "https://bertsoa.eus/bertsoak/23685-hasierako-agurra-bittor-altube-sarrionandia"
     },
     {
-        "text": "ni ziur nago egunen baten\nerakutsiko dugula\nbertsolaritzak barrabilekin\n zerikusirik ez dula!",
-        "singer": "Estitxu Arozena",
-        "url": "https://bertsoeskola.eus/baliabideak/194/"
-    },
-    {
         "text": "kontuz neguan ez dit\nedozerk balio",
         "singer": "Xabat Galletebeita",
         "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia"
@@ -257,5 +252,12 @@
         "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)",
         "tweeted": true,
         "tweeted_at": "2024-09-17T09:15:14.173381"
+    },
+    {
+        "text": "ni ziur nago egunen baten\nerakutsiko dugula\nbertsolaritzak barrabilekin\n zerikusirik ez dula!",
+        "singer": "Estitxu Arozena",
+        "url": "https://bertsoeskola.eus/baliabideak/194/",
+        "tweeted": true,
+        "tweeted_at": "2024-09-18T09:15:39.022889"
     }
 ]
