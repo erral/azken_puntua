@@ -107,11 +107,6 @@
         "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina"
     },
     {
-        "text": "ama berdinak erditu baditu zazpi alaba!\nmerezi duen moduan zaindu zazue Araba!",
-        "singer": "Peru Abarrategi",
-        "url": "https://bertsoa.eus/bertsoak/20809-txapeldunaren-agurra-peru-abarrategi"
-    },
-    {
         "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
         "singer": "Peru Abarrategi",
         "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi"
@@ -268,5 +263,12 @@
         "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17",
         "tweeted": true,
         "tweeted_at": "2024-09-20T09:16:14.154369"
+    },
+    {
+        "text": "ama berdinak erditu baditu zazpi alaba!\nmerezi duen moduan zaindu zazue Araba!",
+        "singer": "Peru Abarrategi",
+        "url": "https://bertsoa.eus/bertsoak/20809-txapeldunaren-agurra-peru-abarrategi",
+        "tweeted": true,
+        "tweeted_at": "2024-09-21T09:15:00.904614"
     }
 ]
