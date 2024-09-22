@@ -117,11 +117,6 @@
         "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia"
     },
     {
-        "text": "gero ez etorri nire hiletara\nnegar batean txabales!\nbere sutea begiratzera\ndoan piromano bat lez!",
-        "singer": "Xabat Galletebeitia",
-        "url": "https://bertsoa.eus/bertsoak/23342-bakarka-gaia-emanda-xabat-galletebeitia-abaroa"
-    },
-    {
         "text": "ya bardin deust finalik\neitten ez bada be!",
         "singer": "Onintza Enbeita",
         "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
@@ -270,5 +265,12 @@
         "url": "https://bertsoa.eus/bertsoak/20809-txapeldunaren-agurra-peru-abarrategi",
         "tweeted": true,
         "tweeted_at": "2024-09-21T09:15:00.904614"
+    },
+    {
+        "text": "gero ez etorri nire hiletara\nnegar batean txabales!\nbere sutea begiratzera\ndoan piromano bat lez!",
+        "singer": "Xabat Galletebeitia",
+        "url": "https://bertsoa.eus/bertsoak/23342-bakarka-gaia-emanda-xabat-galletebeitia-abaroa",
+        "tweeted": true,
+        "tweeted_at": "2024-09-22T09:15:03.808048"
     }
 ]
