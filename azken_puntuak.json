@@ -184,11 +184,6 @@
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela"
     },
     {
-        "text": "ta betikoa erantzun diet\nnekatuta baina pozik",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8274-kartzela"
-    },
-    {
         "text": "puntuak ahaztu ta oilo azalez\nbete dezagun patrika",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8294-hasierako-agurrak"
@@ -281,5 +276,12 @@
         "url": "https://bertsoa.eus/bertsoak/24343-hasierako-agurra-jon-gurrutxaga",
         "tweeted": true,
         "tweeted_at": "2024-09-24T09:15:34.721134"
+    },
+    {
+        "text": "ta betikoa erantzun diet\nnekatuta baina pozik",
+        "singer": "Uxue Alberdi",
+        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
+        "tweeted": true,
+        "tweeted_at": "2024-09-25T09:15:42.291966"
     }
 ]
