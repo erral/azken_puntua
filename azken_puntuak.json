@@ -112,11 +112,6 @@
         "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi"
     },
     {
-        "text": "kontuz neguan ez dit\nedozerk balio",
-        "singer": "Xabat Galletebeita",
-        "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia"
-    },
-    {
         "text": "ya bardin deust finalik\neitten ez bada be!",
         "singer": "Onintza Enbeita",
         "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
@@ -283,5 +278,12 @@
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
         "tweeted": true,
         "tweeted_at": "2024-09-25T09:15:42.291966"
+    },
+    {
+        "text": "kontuz neguan ez dit\nedozerk balio",
+        "singer": "Xabat Galletebeita",
+        "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
+        "tweeted": true,
+        "tweeted_at": "2024-09-26T09:15:57.144437"
     }
 ]
