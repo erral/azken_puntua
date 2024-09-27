@@ -7,11 +7,6 @@
         "tweeted_at": "2024-08-27T12:09:56.289201"
     },
     {
-        "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi"
-    },
-    {
         "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
@@ -295,12 +290,12 @@
         "text": "hik ez nauk noski ni ikusiko\nbaina nik ikusten haut hi",
         "singer": "Lazkao txiki",
         "url": "https://youtu.be/PVaHIxLk6V4?si=xDudWI2lCuLFDYTG&t=44"
-    },    
+    },
     {
         "text": "azal zimurtzen ari haiz motel\nLazkao txiki bezela",
         "singer": "Lazkao txiki",
         "url": "https://youtu.be/PVaHIxLk6V4?si=INyoh8uO3RkGDKQg&t=92"
-    },      
+    },
     {
         "text": "orain ez diot deirik egingo\nbehar ez dudan garaian",
         "singer": "Oihana Iguaran",
@@ -320,5 +315,12 @@
         "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
         "singer": "Nerea Ibarzabal",
         "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285"
+    },
+    {
+        "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+        "tweeted": true,
+        "tweeted_at": "2024-09-27T09:15:36.231035"
     }
 ]
