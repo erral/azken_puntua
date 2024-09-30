@@ -19,11 +19,6 @@
         "tweeted_at": "2024-08-28T09:15:25.504415"
     },
     {
-        "text": "Debalde festa preparatzen det\ngogua dedan orduan",
-        "singer": "Xenpelar",
-        "url": "https://eu.wikipedia.org/wiki/Iparragirre_abila_dela"
-    },
-    {
         "text": "Zure pitxirik ez dakart baina\nhemen da zure alaba.",
         "singer": "Maialen Lujanbio",
         "url": "",
@@ -326,5 +321,12 @@
         "url": "https://youtu.be/PVaHIxLk6V4?si=xDudWI2lCuLFDYTG&t=44",
         "tweeted": true,
         "tweeted_at": "2024-09-29T09:15:16.621414"
+    },
+    {
+        "text": "Debalde festa preparatzen det\ngogua dedan orduan",
+        "singer": "Xenpelar",
+        "url": "https://eu.wikipedia.org/wiki/Iparragirre_abila_dela",
+        "tweeted": true,
+        "tweeted_at": "2024-09-30T09:15:45.725621"
     }
 ]
