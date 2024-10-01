@@ -287,11 +287,6 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120"
     },
     {
-        "text": "hor betirako damutuko zait\nhitzik egin ez izana",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173"
-    },
-    {
         "text": "hogei urtean ez dugu jakin\nbizirik zegoen ere",
         "singer": "Oihana Iguaran",
         "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232"
@@ -328,5 +323,12 @@
         "url": "https://eu.wikipedia.org/wiki/Iparragirre_abila_dela",
         "tweeted": true,
         "tweeted_at": "2024-09-30T09:15:45.725621"
+    },
+    {
+        "text": "hor betirako damutuko zait\nhitzik egin ez izana",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173",
+        "tweeted": true,
+        "tweeted_at": "2024-10-01T09:15:39.310591"
     }
 ]
