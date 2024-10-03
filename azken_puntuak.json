@@ -92,11 +92,6 @@
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY"
     },
     {
-        "text": "nahiz eta izarren hautsa bilakatzen den bizigai\nbihar ez naiz joango eta egin zazue lo lasai",
-        "singer": "Sustrai Colina",
-        "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina"
-    },
-    {
         "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
         "singer": "Peru Abarrategi",
         "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi"
@@ -332,5 +327,12 @@
         "url": "https://youtu.be/PVaHIxLk6V4?si=INyoh8uO3RkGDKQg&t=92",
         "tweeted": true,
         "tweeted_at": "2024-10-02T09:15:27.554580"
+    },
+    {
+        "text": "nahiz eta izarren hautsa bilakatzen den bizigai\nbihar ez naiz joango eta egin zazue lo lasai",
+        "singer": "Sustrai Colina",
+        "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina",
+        "tweeted": true,
+        "tweeted_at": "2024-10-03T09:15:31.848170"
     }
 ]
