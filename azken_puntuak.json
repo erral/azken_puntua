@@ -154,11 +154,6 @@
         "tweeted_at": "2024-09-12T09:15:27.187398"
     },
     {
-        "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8274-kartzela"
-    },
-    {
         "text": "nik ja ohea ez dut ikusten\nbeste guztiek bezala",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela"
@@ -334,5 +329,12 @@
         "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina",
         "tweeted": true,
         "tweeted_at": "2024-10-03T09:15:31.848170"
+    },
+    {
+        "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
+        "singer": "Uxue Alberdi",
+        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
+        "tweeted": true,
+        "tweeted_at": "2024-10-04T09:15:35.446598"
     }
 ]
