@@ -272,11 +272,6 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232"
     },
     {
-        "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285"
-    },
-    {
         "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
         "singer": "Nerea Ibarzabal",
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
@@ -338,5 +333,12 @@
         "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
         "tweeted": true,
         "tweeted_at": "2024-10-05T09:15:55.410863"
+    },
+    {
+        "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
+        "tweeted": true,
+        "tweeted_at": "2024-10-06T09:15:17.138279"
     }
 ]
