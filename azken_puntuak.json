@@ -262,11 +262,6 @@
         "tweeted_at": "2024-09-26T09:15:57.144437"
     },
     {
-        "text": "orain ez diot deirik egingo\nbehar ez dudan garaian",
-        "singer": "Oihana Iguaran",
-        "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120"
-    },
-    {
         "text": "hogei urtean ez dugu jakin\nbizirik zegoen ere",
         "singer": "Oihana Iguaran",
         "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232"
@@ -340,5 +335,12 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
         "tweeted": true,
         "tweeted_at": "2024-10-06T09:15:17.138279"
+    },
+    {
+        "text": "orain ez diot deirik egingo\nbehar ez dudan garaian",
+        "singer": "Oihana Iguaran",
+        "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120",
+        "tweeted": true,
+        "tweeted_at": "2024-10-07T09:15:40.433994"
     }
 ]
