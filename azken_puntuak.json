@@ -137,11 +137,6 @@
         "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi"
     },
     {
-        "text": "ni soilik nago oholtzan baina\nekipo bat gara!",
-        "singer": "Amaia Agirre",
-        "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre"
-    },
-    {
         "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
         "singer": "Manex Agirre @manexagirre",
         "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
@@ -342,5 +337,12 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120",
         "tweeted": true,
         "tweeted_at": "2024-10-07T09:15:40.433994"
+    },
+    {
+        "text": "ni soilik nago oholtzan baina\nekipo bat gara!",
+        "singer": "Amaia Agirre",
+        "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre",
+        "tweeted": true,
+        "tweeted_at": "2024-10-08T09:15:27.856682"
     }
 ]
