@@ -7,11 +7,6 @@
         "tweeted_at": "2024-08-27T12:09:56.289201"
     },
     {
-        "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo"
-    },
-    {
         "text": "nere eskutan baldin badago\nni ez naiz ohean hilko",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
@@ -344,5 +339,12 @@
         "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre",
         "tweeted": true,
         "tweeted_at": "2024-10-08T09:15:27.856682"
+    },
+    {
+        "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
+        "singer": "Andoni Ega\u00f1a",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
+        "tweeted": true,
+        "tweeted_at": "2024-10-09T09:15:42.634069"
     }
 ]
