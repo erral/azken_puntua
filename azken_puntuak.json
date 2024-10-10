@@ -252,11 +252,6 @@
         "tweeted_at": "2024-09-26T09:15:57.144437"
     },
     {
-        "text": "hogei urtean ez dugu jakin\nbizirik zegoen ere",
-        "singer": "Oihana Iguaran",
-        "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232"
-    },
-    {
         "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
         "singer": "Nerea Ibarzabal",
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
@@ -346,5 +341,12 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
         "tweeted": true,
         "tweeted_at": "2024-10-09T09:15:42.634069"
+    },
+    {
+        "text": "hogei urtean ez dugu jakin\nbizirik zegoen ere",
+        "singer": "Oihana Iguaran",
+        "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232",
+        "tweeted": true,
+        "tweeted_at": "2024-10-10T09:15:33.310113"
     }
 ]
