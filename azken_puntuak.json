@@ -127,11 +127,6 @@
         "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga"
     },
     {
-        "text": "trena gainera datorkidala\namesten baitet gauero",
-        "singer": "I\u00f1igo Mantzizidor \"Mantxi\"",
-        "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi"
-    },
-    {
         "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
         "singer": "Manex Agirre @manexagirre",
         "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
@@ -355,5 +350,12 @@
         "url": "https://bertsoa.eus/bertsoak/21220-hasierako-agurra",
         "tweeted": true,
         "tweeted_at": "2024-10-11T09:15:27.878499"
+    },
+    {
+        "text": "trena gainera datorkidala\namesten baitet gauero",
+        "singer": "I\u00f1igo Mantzizidor \"Mantxi\"",
+        "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi",
+        "tweeted": true,
+        "tweeted_at": "2024-10-12T09:15:28.415729"
     }
 ]
