@@ -139,11 +139,6 @@
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela"
     },
     {
-        "text": "puntuak ahaztu ta oilo azalez\nbete dezagun patrika",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8294-hasierako-agurrak"
-    },
-    {
         "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
         "singer": "Maialen Lujanbio",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64"
@@ -357,5 +352,12 @@
         "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi",
         "tweeted": true,
         "tweeted_at": "2024-10-12T09:15:28.415729"
+    },
+    {
+        "text": "puntuak ahaztu ta oilo azalez\nbete dezagun patrika",
+        "singer": "Uxue Alberdi",
+        "url": "https://bertsoa.eus/bertsoak/8294-hasierako-agurrak",
+        "tweeted": true,
+        "tweeted_at": "2024-10-13T09:15:12.742067"
     }
 ]
