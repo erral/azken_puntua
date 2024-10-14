@@ -82,11 +82,6 @@
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY"
     },
     {
-        "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
-        "singer": "Peru Abarrategi",
-        "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi"
-    },
-    {
         "text": "ya bardin deust finalik\neitten ez bada be!",
         "singer": "Onintza Enbeita",
         "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
@@ -359,5 +354,12 @@
         "url": "https://bertsoa.eus/bertsoak/8294-hasierako-agurrak",
         "tweeted": true,
         "tweeted_at": "2024-10-13T09:15:12.742067"
+    },
+    {
+        "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
+        "singer": "Peru Abarrategi",
+        "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi",
+        "tweeted": true,
+        "tweeted_at": "2024-10-14T09:15:40.173496"
     }
 ]
