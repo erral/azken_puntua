@@ -77,11 +77,6 @@
         "tweeted_at": "2024-09-06T09:15:19.503225"
     },
     {
-        "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY"
-    },
-    {
         "text": "ya bardin deust finalik\neitten ez bada be!",
         "singer": "Onintza Enbeita",
         "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
@@ -363,8 +358,15 @@
         "tweeted_at": "2024-10-14T09:15:40.173496"
     },
     {
-        "text" : "beraz sari hau ta muxu bat\nzirkuito hura edertzen\nduzuenei gero hona\nindarrez etor gaitezen",
+        "text": "beraz sari hau ta muxu bat\nzirkuito hura edertzen\nduzuenei gero hona\nindarrez etor gaitezen",
         "singer": "Aner \"Euzkitze\" Peritz",
         "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra"
+    },
+    {
+        "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
+        "singer": "Maialen Lujanbio",
+        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
+        "tweeted": true,
+        "tweeted_at": "2024-10-15T09:15:32.411738"
     }
 ]
