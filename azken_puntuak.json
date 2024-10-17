@@ -381,7 +381,7 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kat38",
         "singer": "Andoni Egaña"
     },
-     {
+    {
         "text": "zein bero zen muxua ta\nnik zeinen hotz hartu dudan",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fkdc4",
         "singer": "Maialen Lujanbio"
@@ -391,5 +391,9 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fo8t8",
         "singer": "Andoni Egaña"
     },
-    
+    { 
+        "text": "baina joan bagoaz\nta onena hori da",
+        "url": "https://bertsoa.eus/bertsoak/22133-bukaerako-agurra-maddi-ane-txoperena",
+        "singer": "Maddi Ane Txoperena"
+    }    
 ]
