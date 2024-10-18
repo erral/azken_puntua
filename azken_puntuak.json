@@ -365,11 +365,6 @@
         "tweeted_at": "2024-10-15T09:15:32.411738"
     },
     {
-        "text": "gure ametsen gidari\nharro ezak Xiberua!",
-        "url": "https://www.youtube.com/watch?v=I2nRZXhdwiA",
-        "singer": "Xiberutarrak"
-    },
-    {
         "text": "nik ja ohea ez dut ikusten\nbeste guztiek bezala",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
@@ -397,5 +392,12 @@
         "singer": "Andoni Ega\u00f1a",
         "tweeted": true,
         "tweeted_at": "2024-10-17T09:15:30.002550"
+    },
+    {
+        "text": "gure ametsen gidari\nharro ezak Xiberua!",
+        "url": "https://www.youtube.com/watch?v=I2nRZXhdwiA",
+        "singer": "Xiberutarrak",
+        "tweeted": true,
+        "tweeted_at": "2024-10-18T09:15:43.201004"
     }
 ]
