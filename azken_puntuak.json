@@ -372,11 +372,6 @@
         "tweeted_at": "2024-10-16T09:15:32.707583"
     },
     {
-        "text": "zein bero zen muxua ta\nnik zeinen hotz hartu dudan",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fkdc4",
-        "singer": "Maialen Lujanbio"
-    },
-    {
         "text": "iruditzen zait belodromoan\ngure artean dagola",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fo8t8",
         "singer": "Andoni Ega\u00f1a"
@@ -399,5 +394,12 @@
         "singer": "Xiberutarrak",
         "tweeted": true,
         "tweeted_at": "2024-10-18T09:15:43.201004"
+    },
+    {
+        "text": "zein bero zen muxua ta\nnik zeinen hotz hartu dudan",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fkdc4",
+        "singer": "Maialen Lujanbio",
+        "tweeted": true,
+        "tweeted_at": "2024-10-19T09:15:07.009945"
     }
 ]
