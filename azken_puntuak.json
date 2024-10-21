@@ -372,11 +372,6 @@
         "singer": "Andoni Ega\u00f1a"
     },
     {
-        "text": "baina joan bagoaz\nta onena hori da",
-        "url": "https://bertsoa.eus/bertsoak/22133-bukaerako-agurra-maddi-ane-txoperena",
-        "singer": "Maddi Ane Txoperena"
-    },
-    {
         "text": "baina ezetz txikirik\nbehiak jeizteko",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kat38",
         "singer": "Andoni Ega\u00f1a",
@@ -403,5 +398,12 @@
         "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra",
         "tweeted": true,
         "tweeted_at": "2024-10-20T09:15:20.851292"
+    },
+    {
+        "text": "baina joan bagoaz\nta onena hori da",
+        "url": "https://bertsoa.eus/bertsoak/22133-bukaerako-agurra-maddi-ane-txoperena",
+        "singer": "Maddi Ane Txoperena",
+        "tweeted": true,
+        "tweeted_at": "2024-10-21T09:15:42.218669"
     }
 ]
