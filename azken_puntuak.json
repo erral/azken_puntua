@@ -367,11 +367,6 @@
         "tweeted_at": "2024-10-16T09:15:32.707583"
     },
     {
-        "text": "iruditzen zait belodromoan\ngure artean dagola",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fo8t8",
-        "singer": "Andoni Ega\u00f1a"
-    },
-    {
         "text": "baina ezetz txikirik\nbehiak jeizteko",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kat38",
         "singer": "Andoni Ega\u00f1a",
@@ -405,5 +400,12 @@
         "singer": "Maddi Ane Txoperena",
         "tweeted": true,
         "tweeted_at": "2024-10-21T09:15:42.218669"
+    },
+    {
+        "text": "iruditzen zait belodromoan\ngure artean dagola",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fo8t8",
+        "singer": "Andoni Ega\u00f1a",
+        "tweeted": true,
+        "tweeted_at": "2024-10-22T09:15:29.595779"
     }
 ]
