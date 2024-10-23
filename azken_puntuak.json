@@ -124,11 +124,6 @@
         "tweeted_at": "2024-09-12T09:15:27.187398"
     },
     {
-        "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64"
-    },
-    {
         "text": "jainkoaren zigorra\nez ote da izan",
         "singer": "Jon Martin",
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
@@ -407,5 +402,12 @@
         "singer": "Andoni Ega\u00f1a",
         "tweeted": true,
         "tweeted_at": "2024-10-22T09:15:29.595779"
+    },
+    {
+        "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
+        "singer": "Maialen Lujanbio",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
+        "tweeted": true,
+        "tweeted_at": "2024-10-23T09:15:28.896996"
     }
 ]
