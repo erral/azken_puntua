@@ -112,11 +112,6 @@
         "tweeted_at": "2024-09-11T09:15:35.617768"
     },
     {
-        "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
-        "singer": "Unai Iturriaga @uiturriaga",
-        "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga"
-    },
-    {
         "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
         "singer": "Manex Agirre @manexagirre",
         "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
@@ -409,5 +404,12 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
         "tweeted": true,
         "tweeted_at": "2024-10-23T09:15:28.896996"
+    },
+    {
+        "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
+        "singer": "Unai Iturriaga @uiturriaga",
+        "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
+        "tweeted": true,
+        "tweeted_at": "2024-10-24T09:15:29.297027"
     }
 ]
