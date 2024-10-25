@@ -210,13 +210,6 @@
         "tweeted_at": "2024-09-25T09:15:42.291966"
     },
     {
-        "text": "kontuz neguan ez dit\nedozerk balio",
-        "singer": "Xabat Galletebeita",
-        "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
-        "tweeted": true,
-        "tweeted_at": "2024-09-26T09:15:57.144437"
-    },
-    {
         "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
         "singer": "Nerea Ibarzabal",
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
@@ -411,5 +404,12 @@
         "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
         "tweeted": true,
         "tweeted_at": "2024-10-24T09:15:29.297027"
+    },
+    {
+        "text": "kontuz neguan ez dit\nedozerk balio",
+        "singer": "Xabat Galletebeita",
+        "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
+        "tweeted": true,
+        "tweeted_at": "2024-10-25T09:15:35.150873"
     }
 ]
