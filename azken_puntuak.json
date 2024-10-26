@@ -357,13 +357,6 @@
         "tweeted_at": "2024-10-17T09:15:30.002550"
     },
     {
-        "text": "gure ametsen gidari\nharro ezak Xiberua!",
-        "url": "https://www.youtube.com/watch?v=I2nRZXhdwiA",
-        "singer": "Xiberutarrak",
-        "tweeted": true,
-        "tweeted_at": "2024-10-18T09:15:43.201004"
-    },
-    {
         "text": "zein bero zen muxua ta\nnik zeinen hotz hartu dudan",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fkdc4",
         "singer": "Maialen Lujanbio",
@@ -411,5 +404,12 @@
         "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
         "tweeted": true,
         "tweeted_at": "2024-10-25T09:15:35.150873"
+    },
+    {
+        "text": "gure ametsen gidari\nharro ezak Xiberua!",
+        "url": "https://www.youtube.com/watch?v=I2nRZXhdwiA",
+        "singer": "Xiberutarrak",
+        "tweeted": true,
+        "tweeted_at": "2024-10-26T09:15:11.010643"
     }
 ]
