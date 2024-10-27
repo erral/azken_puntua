@@ -154,13 +154,6 @@
         "tweeted_at": "2024-09-17T09:15:14.173381"
     },
     {
-        "text": "ni ziur nago egunen baten\nerakutsiko dugula\nbertsolaritzak barrabilekin\n zerikusirik ez dula!",
-        "singer": "Estitxu Arozena",
-        "url": "https://bertsoeskola.eus/baliabideak/194/",
-        "tweeted": true,
-        "tweeted_at": "2024-09-18T09:15:39.022889"
-    },
-    {
         "text": "lana dugu aurretik\nlehendabizi gabon!",
         "singer": "Bittor Altube",
         "url": "https://bertsoa.eus/bertsoak/23685-hasierako-agurra-bittor-altube-sarrionandia",
@@ -411,5 +404,12 @@
         "singer": "Xiberutarrak",
         "tweeted": true,
         "tweeted_at": "2024-10-26T09:15:11.010643"
+    },
+    {
+        "text": "ni ziur nago egunen baten\nerakutsiko dugula\nbertsolaritzak barrabilekin\n zerikusirik ez dula!",
+        "singer": "Estitxu Arozena",
+        "url": "https://bertsoeskola.eus/baliabideak/194/",
+        "tweeted": true,
+        "tweeted_at": "2024-10-27T09:15:13.763534"
     }
 ]
