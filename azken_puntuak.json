@@ -437,10 +437,6 @@
         "singer": "Aratz Igartzabal"
     },
     {
-        "text": "Ikatza ekarriko die\naitatxo ta amatxori",
-        "singer": "Aratz Igartzabal"
-    },
-    {
         "text": "Beraz jaistea tokatzen denez\nEibar ez da toki txarra",
         "singer": "Manu Goiogana @mgoiogana"
     },
@@ -460,5 +456,11 @@
         "text": "Zabaldu belarriak\nahots berrieri",
         "singer": "Alaia Martin",
         "url": "https://bertsoa.eus/bertsoak/24475-irabazlearen-agurra"
+    },
+    {
+        "text": "Ikatza ekarriko die\naitatxo ta amatxori",
+        "singer": "Aratz Igartzabal",
+        "tweeted": true,
+        "tweeted_at": "2024-10-28T09:15:45.235677"
     }
 ]
