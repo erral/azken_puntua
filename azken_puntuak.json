@@ -429,10 +429,6 @@
         "singer": "Manu Goiogana @mgoiogana"
     },
     {
-        "text": "Zeinek eman behar dio\nOlentzeroren berria",
-        "singer": "Aratz Igartzabal"
-    },
-    {
         "text": "Mendian ez da egoten baina\nhala ere borobila",
         "singer": "Aratz Igartzabal"
     },
@@ -462,5 +458,11 @@
         "singer": "Aratz Igartzabal",
         "tweeted": true,
         "tweeted_at": "2024-10-28T09:15:45.235677"
+    },
+    {
+        "text": "Zeinek eman behar dio\nOlentzeroren berria",
+        "singer": "Aratz Igartzabal",
+        "tweeted": true,
+        "tweeted_at": "2024-10-29T09:15:32.691601"
     }
 ]
