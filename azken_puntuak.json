@@ -417,10 +417,6 @@
         "singer": "Eneko Araiztegi"
     },
     {
-        "text": "Orain gorrot duzuna\nmaiteko duzula gero",
-        "singer": "Alaia Martin"
-    },
-    {
         "text": "Hemendik urte batzuetara\nondoan egongo gara",
         "singer": "Manu Goiogana @mgoiogana"
     },
@@ -468,5 +464,11 @@
         "singer": "Agin Laburu",
         "tweeted": true,
         "tweeted_at": "2024-10-31T09:15:25.034551"
+    },
+    {
+        "text": "Orain gorrot duzuna\nmaiteko duzula gero",
+        "singer": "Alaia Martin",
+        "tweeted": true,
+        "tweeted_at": "2024-11-01T09:15:37.565624"
     }
 ]
