@@ -417,10 +417,6 @@
         "singer": "Eneko Araiztegi"
     },
     {
-        "text": "Hemendik urte batzuetara\nondoan egongo gara",
-        "singer": "Manu Goiogana @mgoiogana"
-    },
-    {
         "text": "Mendian ez da egoten baina\nhala ere borobila",
         "singer": "Aratz Igartzabal"
     },
@@ -470,5 +466,11 @@
         "singer": "Alaia Martin",
         "tweeted": true,
         "tweeted_at": "2024-11-01T09:15:37.565624"
+    },
+    {
+        "text": "Hemendik urte batzuetara\nondoan egongo gara",
+        "singer": "Manu Goiogana @mgoiogana",
+        "tweeted": true,
+        "tweeted_at": "2024-11-02T09:15:22.174620"
     }
 ]
