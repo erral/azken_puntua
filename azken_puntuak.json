@@ -425,10 +425,6 @@
         "singer": "Haizea Arana"
     },
     {
-        "text": "Bertsoak sortzen ditun lagunak\nbetiko geratzen dira",
-        "singer": "Eneko Araiztegi"
-    },
-    {
         "text": "Zabaldu belarriak\nahots berrieri",
         "singer": "Alaia Martin",
         "url": "https://bertsoa.eus/bertsoak/24475-irabazlearen-agurra"
@@ -474,5 +470,11 @@
         "singer": "Manu Goiogana @mgoiogana",
         "tweeted": true,
         "tweeted_at": "2024-11-03T09:15:24.251519"
+    },
+    {
+        "text": "Bertsoak sortzen ditun lagunak\nbetiko geratzen dira",
+        "singer": "Eneko Araiztegi",
+        "tweeted": true,
+        "tweeted_at": "2024-11-04T09:15:54.393799"
     }
 ]
