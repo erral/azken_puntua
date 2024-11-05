@@ -421,10 +421,6 @@
         "singer": "Aratz Igartzabal"
     },
     {
-        "text": "Ta norbait etor dadila goxo\nbesarkatuko nauena",
-        "singer": "Haizea Arana"
-    },
-    {
         "text": "Zabaldu belarriak\nahots berrieri",
         "singer": "Alaia Martin",
         "url": "https://bertsoa.eus/bertsoak/24475-irabazlearen-agurra"
@@ -476,5 +472,11 @@
         "singer": "Eneko Araiztegi",
         "tweeted": true,
         "tweeted_at": "2024-11-04T09:15:54.393799"
+    },
+    {
+        "text": "Ta norbait etor dadila goxo\nbesarkatuko nauena",
+        "singer": "Haizea Arana",
+        "tweeted": true,
+        "tweeted_at": "2024-11-05T09:15:29.810544"
     }
 ]
