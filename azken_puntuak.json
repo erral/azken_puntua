@@ -413,10 +413,6 @@
         "tweeted_at": "2024-10-27T09:15:13.763534"
     },
     {
-        "text": "Mendian ez da egoten baina\nhala ere borobila",
-        "singer": "Aratz Igartzabal"
-    },
-    {
         "text": "Ikatza ekarriko die\naitatxo ta amatxori",
         "singer": "Aratz Igartzabal",
         "tweeted": true,
@@ -482,5 +478,11 @@
         "singer": "Eneko Araiztegi",
         "tweeted": true,
         "tweeted_at": "2024-11-07T09:15:35.079337"
+    },
+    {
+        "text": "Mendian ez da egoten baina\nhala ere borobila",
+        "singer": "Aratz Igartzabal",
+        "tweeted": true,
+        "tweeted_at": "2024-11-08T09:15:23.066906"
     }
 ]
