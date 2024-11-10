@@ -49,13 +49,6 @@
         "tweeted_at": "2024-09-02T09:15:40.942996"
     },
     {
-        "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
-        "singer": "Onintza Enbeita",
-        "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-09-03T09:15:21.353616"
-    },
-    {
         "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
@@ -484,5 +477,12 @@
         "singer": "Haizea Arana",
         "tweeted": true,
         "tweeted_at": "2024-11-09T09:14:56.786558"
+    },
+    {
+        "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
+        "singer": "Onintza Enbeita",
+        "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra",
+        "tweeted": true,
+        "tweeted_at": "2024-11-10T09:14:59.958688"
     }
 ]
