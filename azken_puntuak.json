@@ -315,13 +315,6 @@
         "tweeted_at": "2024-10-13T09:15:12.742067"
     },
     {
-        "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
-        "singer": "Peru Abarrategi",
-        "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi",
-        "tweeted": true,
-        "tweeted_at": "2024-10-14T09:15:40.173496"
-    },
-    {
         "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
         "singer": "Maialen Lujanbio",
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
@@ -484,5 +477,12 @@
         "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra",
         "tweeted": true,
         "tweeted_at": "2024-11-10T09:14:59.958688"
+    },
+    {
+        "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
+        "singer": "Peru Abarrategi",
+        "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi",
+        "tweeted": true,
+        "tweeted_at": "2024-11-11T09:15:39.151754"
     }
 ]
