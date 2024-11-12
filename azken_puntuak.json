@@ -245,13 +245,6 @@
         "tweeted_at": "2024-10-03T09:15:31.848170"
     },
     {
-        "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
-        "tweeted": true,
-        "tweeted_at": "2024-10-04T09:15:35.446598"
-    },
-    {
         "text": "ta ni kanpotik gizon plantetan\nbaina barrutik negarrez",
         "singer": "Aitor Bizkarra",
         "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
@@ -484,5 +477,12 @@
         "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi",
         "tweeted": true,
         "tweeted_at": "2024-11-11T09:15:39.151754"
+    },
+    {
+        "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
+        "singer": "Uxue Alberdi",
+        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
+        "tweeted": true,
+        "tweeted_at": "2024-11-12T09:15:30.968547"
     }
 ]
