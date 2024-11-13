@@ -105,13 +105,6 @@
         "tweeted_at": "2024-09-11T09:15:35.617768"
     },
     {
-        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
-        "singer": "Manex Agirre @manexagirre",
-        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
-        "tweeted": true,
-        "tweeted_at": "2024-09-12T09:15:27.187398"
-    },
-    {
         "text": "jainkoaren zigorra\nez ote da izan",
         "singer": "Jon Martin",
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
@@ -484,5 +477,12 @@
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
         "tweeted": true,
         "tweeted_at": "2024-11-12T09:15:30.968547"
+    },
+    {
+        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
+        "singer": "Manex Agirre @manexagirre",
+        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
+        "tweeted": true,
+        "tweeted_at": "2024-11-13T09:15:27.179703"
     }
 ]
