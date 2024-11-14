@@ -350,13 +350,6 @@
         "tweeted_at": "2024-10-22T09:15:29.595779"
     },
     {
-        "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
-        "tweeted": true,
-        "tweeted_at": "2024-10-23T09:15:28.896996"
-    },
-    {
         "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
         "singer": "Unai Iturriaga @uiturriaga",
         "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
@@ -484,5 +477,12 @@
         "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
         "tweeted": true,
         "tweeted_at": "2024-11-13T09:15:27.179703"
+    },
+    {
+        "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
+        "singer": "Maialen Lujanbio",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
+        "tweeted": true,
+        "tweeted_at": "2024-11-14T09:15:28.435618"
     }
 ]
