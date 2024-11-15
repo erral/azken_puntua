@@ -329,13 +329,6 @@
         "tweeted_at": "2024-10-19T09:15:07.009945"
     },
     {
-        "text": "beraz sari hau ta muxu bat\nzirkuito hura edertzen\nduzuenei gero hona\nindarrez etor gaitezen",
-        "singer": "Aner \"Euzkitze\" Peritz",
-        "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-10-20T09:15:20.851292"
-    },
-    {
         "text": "baina joan bagoaz\nta onena hori da",
         "url": "https://bertsoa.eus/bertsoak/22133-bukaerako-agurra-maddi-ane-txoperena",
         "singer": "Maddi Ane Txoperena",
@@ -484,5 +477,12 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
         "tweeted": true,
         "tweeted_at": "2024-11-14T09:15:28.435618"
+    },
+    {
+        "text": "beraz sari hau ta muxu bat\nzirkuito hura edertzen\nduzuenei gero hona\nindarrez etor gaitezen",
+        "singer": "Aner \"Euzkitze\" Peritz",
+        "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra",
+        "tweeted": true,
+        "tweeted_at": "2024-11-15T09:15:35.825315"
     }
 ]
