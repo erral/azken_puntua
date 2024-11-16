@@ -238,13 +238,6 @@
         "tweeted_at": "2024-10-03T09:15:31.848170"
     },
     {
-        "text": "ta ni kanpotik gizon plantetan\nbaina barrutik negarrez",
-        "singer": "Aitor Bizkarra",
-        "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
-        "tweeted": true,
-        "tweeted_at": "2024-10-05T09:15:55.410863"
-    },
-    {
         "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
         "singer": "Nerea Ibarzabal",
         "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
@@ -484,5 +477,12 @@
         "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra",
         "tweeted": true,
         "tweeted_at": "2024-11-15T09:15:35.825315"
+    },
+    {
+        "text": "ta ni kanpotik gizon plantetan\nbaina barrutik negarrez",
+        "singer": "Aitor Bizkarra",
+        "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
+        "tweeted": true,
+        "tweeted_at": "2024-11-16T09:15:13.091881"
     }
 ]
