@@ -458,13 +458,6 @@
         "tweeted_at": "2024-11-12T09:15:30.968547"
     },
     {
-        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
-        "singer": "Manex Agirre @manexagirre",
-        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
-        "tweeted": true,
-        "tweeted_at": "2024-11-13T09:15:27.179703"
-    },
-    {
         "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
         "singer": "Maialen Lujanbio",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
@@ -484,5 +477,12 @@
         "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
         "tweeted": true,
         "tweeted_at": "2024-11-16T09:15:13.091881"
+    },
+    {
+        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
+        "singer": "Manex Agirre @manexagirre",
+        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
+        "tweeted": true,
+        "tweeted_at": "2024-11-17T09:15:32.243368"
     }
 ]
