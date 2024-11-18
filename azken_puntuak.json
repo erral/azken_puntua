@@ -1,488 +1,603 @@
 [
-    {
-        "text": "txistuak jo dituzute bainan\nmaite zaituztet orainik!",
-        "singer": "Fernando Aire \"Xalbador\"",
-        "url": "https://www.youtube.com/watch?v=ZOGIO6auXDU",
-        "tweeted": true,
-        "tweeted_at": "2024-08-27T12:09:56.289201"
-    },
-    {
-        "text": "nere eskutan baldin badago\nni ez naiz ohean hilko",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
-        "tweeted": true,
-        "tweeted_at": "2024-08-28T09:15:25.504415"
-    },
-    {
-        "text": "Zure pitxirik ez dakart baina\nhemen da zure alaba.",
-        "singer": "Maialen Lujanbio",
-        "url": "",
-        "tweeted": true,
-        "tweeted_at": "2024-08-29T09:15:26.935921"
-    },
-    {
-        "text": "ni bezelako gizon batentzat\nez ote da zoritxarra,\nitsasoa hain hurbil izan da\nohean egon beharra.",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
-        "tweeted": true,
-        "tweeted_at": "2024-08-30T09:15:22.369889"
-    },
-    {
-        "text": "nahi gabe joaten zaizkit\nhatzamarrak eztarrira",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
-        "tweeted": true,
-        "tweeted_at": "2024-08-31T09:15:02.789348"
-    },
-    {
-        "text": "bihar goizean berdin-berdin zait\nze eguraldi ze giro\netorriko naiz berriro",
-        "singer": "Igor Elortza",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/k7lv8",
-        "tweeted": true,
-        "tweeted_at": "2024-09-01T09:15:06.337775"
-    },
-    {
-        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
-        "singer": "Amets Arzalluz",
-        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
-        "tweeted": true,
-        "tweeted_at": "2024-09-02T09:15:40.942996"
-    },
-    {
-        "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
-        "tweeted": true,
-        "tweeted_at": "2024-09-04T09:15:26.543589"
-    },
-    {
-        "text": "zuen txaloak beretzat dira\nnere txapela ere bai",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/juqc8",
-        "tweeted": true,
-        "tweeted_at": "2024-09-05T09:15:04.947134"
-    },
-    {
-        "text": "arren sartu hatzamarrak\nta ateraizkidazu berbak",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
-        "tweeted": true,
-        "tweeted_at": "2024-09-06T09:15:19.503225"
-    },
-    {
-        "text": "ya bardin deust finalik\neitten ez bada be!",
-        "singer": "Onintza Enbeita",
-        "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
-        "tweeted": true,
-        "tweeted_at": "2024-09-07T09:14:53.936118"
-    },
-    {
-        "text": "behar bada ez duzu\nezer sinetsiko\nbaina nik ez nituzke\nbegiak itxiko",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/20205-hasierako-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-09-08T09:15:02.841817"
-    },
-    {
-        "text": "gizonezkoen tarta honetan\nkrema ez degu izan nahi",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoeskola.eus/baliabideak/194/",
-        "tweeted": true,
-        "tweeted_at": "2024-09-09T09:15:42.576072"
-    },
-    {
-        "text": "agur t'erdi Berriz\nhorren eder ikusi\nnahi zintuzket berriz!",
-        "singer": "Koldo Gezuraga",
-        "url": "https://bertsoa.eus/bertsoak/22959-bukaerako-agurra-koldo-gezuraga-seijido",
-        "tweeted": true,
-        "tweeted_at": "2024-09-10T09:15:27.822999"
-    },
-    {
-        "text": "bertsoaren indarrak agur eta erdi!\nbihurtu nazazue Jon Maia bider bi!",
-        "singer": "Jon Maia",
-        "url": "https://bertsoa.eus/bertsoak/14858-hasierako-agurra-jon-maia-btn17",
-        "tweeted": true,
-        "tweeted_at": "2024-09-11T09:15:35.617768"
-    },
-    {
-        "text": "jainkoaren zigorra\nez ote da izan",
-        "singer": "Jon Martin",
-        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
-        "tweeted": true,
-        "tweeted_at": "2024-09-13T09:15:17.728425"
-    },
-    {
-        "text": "baina kaskodun batek esan dit\nhemen ez da ezer pasa",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (24:30)",
-        "tweeted": true,
-        "tweeted_at": "2024-09-14T09:15:08.535233"
-    },
-    {
-        "text": "ta gaur ez zaude Arenan baina\noholtzan nerekin zaude",
-        "singer": "Aitor Mendiluze",
-        "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze",
-        "tweeted": true,
-        "tweeted_at": "2024-09-15T09:15:19.203782"
-    },
-    {
-        "text": "argazkirikan ez izan arren\nhitzak jarriko ditugu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (29:15)",
-        "tweeted": true,
-        "tweeted_at": "2024-09-16T09:16:08.803427"
-    },
-    {
-        "text": "pasa ez denak erakusten du\nsarri asko pasa dena",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)",
-        "tweeted": true,
-        "tweeted_at": "2024-09-17T09:15:14.173381"
-    },
-    {
-        "text": "lana dugu aurretik\nlehendabizi gabon!",
-        "singer": "Bittor Altube",
-        "url": "https://bertsoa.eus/bertsoak/23685-hasierako-agurra-bittor-altube-sarrionandia",
-        "tweeted": true,
-        "tweeted_at": "2024-09-19T09:20:25.997858"
-    },
-    {
-        "text": "Nere inon ez egon nahia ote\nda zure ezinegona.",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17",
-        "tweeted": true,
-        "tweeted_at": "2024-09-20T09:16:14.154369"
-    },
-    {
-        "text": "ama berdinak erditu baditu zazpi alaba!\nmerezi duen moduan zaindu zazue Araba!",
-        "singer": "Peru Abarrategi",
-        "url": "https://bertsoa.eus/bertsoak/20809-txapeldunaren-agurra-peru-abarrategi",
-        "tweeted": true,
-        "tweeted_at": "2024-09-21T09:15:00.904614"
-    },
-    {
-        "text": "gero ez etorri nire hiletara\nnegar batean txabales!\nbere sutea begiratzera\ndoan piromano bat lez!",
-        "singer": "Xabat Galletebeitia",
-        "url": "https://bertsoa.eus/bertsoak/23342-bakarka-gaia-emanda-xabat-galletebeitia-abaroa",
-        "tweeted": true,
-        "tweeted_at": "2024-09-22T09:15:03.808048"
-    },
-    {
-        "text": "ta askok hala pentsatu arren\nhau ez da nire errua",
-        "singer": "Ane Zuazubizkar",
-        "url": "https://bertsoa.eus/bertsoak/24347-bakarka-ane-zuazubiskar",
-        "tweeted": true,
-        "tweeted_at": "2024-09-23T09:16:02.468996"
-    },
-    {
-        "text": "batez ere da hotzikara bat\nbizkarrezurrean gora",
-        "singer": "Jon Gurrutxaga",
-        "url": "https://bertsoa.eus/bertsoak/24343-hasierako-agurra-jon-gurrutxaga",
-        "tweeted": true,
-        "tweeted_at": "2024-09-24T09:15:34.721134"
-    },
-    {
-        "text": "ta betikoa erantzun diet\nnekatuta baina pozik",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
-        "tweeted": true,
-        "tweeted_at": "2024-09-25T09:15:42.291966"
-    },
-    {
-        "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
-        "tweeted": true,
-        "tweeted_at": "2024-09-27T09:15:36.231035"
-    },
-    {
-        "text": "zahartutakuan ez da begiratzen\ngaztetan oin bezain sarri",
-        "singer": "Lazkao txiki",
-        "url": "https://www.youtube.com/watch?v=PVaHIxLk6V4",
-        "tweeted": true,
-        "tweeted_at": "2024-09-28T09:15:27.885136"
-    },
-    {
-        "text": "hik ez nauk noski ni ikusiko\nbaina nik ikusten haut hi",
-        "singer": "Lazkao txiki",
-        "url": "https://youtu.be/PVaHIxLk6V4?si=xDudWI2lCuLFDYTG&t=44",
-        "tweeted": true,
-        "tweeted_at": "2024-09-29T09:15:16.621414"
-    },
-    {
-        "text": "Debalde festa preparatzen det\ngogua dedan orduan",
-        "singer": "Xenpelar",
-        "url": "https://eu.wikipedia.org/wiki/Iparragirre_abila_dela",
-        "tweeted": true,
-        "tweeted_at": "2024-09-30T09:15:45.725621"
-    },
-    {
-        "text": "hor betirako damutuko zait\nhitzik egin ez izana",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173",
-        "tweeted": true,
-        "tweeted_at": "2024-10-01T09:15:39.310591"
-    },
-    {
-        "text": "azal zimurtzen ari haiz motel\nLazkao txiki bezela",
-        "singer": "Lazkao txiki",
-        "url": "https://youtu.be/PVaHIxLk6V4?si=INyoh8uO3RkGDKQg&t=92",
-        "tweeted": true,
-        "tweeted_at": "2024-10-02T09:15:27.554580"
-    },
-    {
-        "text": "nahiz eta izarren hautsa bilakatzen den bizigai\nbihar ez naiz joango eta egin zazue lo lasai",
-        "singer": "Sustrai Colina",
-        "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina",
-        "tweeted": true,
-        "tweeted_at": "2024-10-03T09:15:31.848170"
-    },
-    {
-        "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
-        "tweeted": true,
-        "tweeted_at": "2024-10-06T09:15:17.138279"
-    },
-    {
-        "text": "orain ez diot deirik egingo\nbehar ez dudan garaian",
-        "singer": "Oihana Iguaran",
-        "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120",
-        "tweeted": true,
-        "tweeted_at": "2024-10-07T09:15:40.433994"
-    },
-    {
-        "text": "ni soilik nago oholtzan baina\nekipo bat gara!",
-        "singer": "Amaia Agirre",
-        "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre",
-        "tweeted": true,
-        "tweeted_at": "2024-10-08T09:15:27.856682"
-    },
-    {
-        "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
-        "tweeted": true,
-        "tweeted_at": "2024-10-09T09:15:42.634069"
-    },
-    {
-        "text": "hogei urtean ez dugu jakin\nbizirik zegoen ere",
-        "singer": "Oihana Iguaran",
-        "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232",
-        "tweeted": true,
-        "tweeted_at": "2024-10-10T09:15:33.310113"
-    },
-    {
-        "text": "ta orain hemen nago ta zuek\nnahi zaituztet elikatu",
-        "singer": "Maialen Akizu",
-        "url": "https://bertsoa.eus/bertsoak/21220-hasierako-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-10-11T09:15:27.878499"
-    },
-    {
-        "text": "trena gainera datorkidala\namesten baitet gauero",
-        "singer": "I\u00f1igo Mantzizidor \"Mantxi\"",
-        "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi",
-        "tweeted": true,
-        "tweeted_at": "2024-10-12T09:15:28.415729"
-    },
-    {
-        "text": "puntuak ahaztu ta oilo azalez\nbete dezagun patrika",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8294-hasierako-agurrak",
-        "tweeted": true,
-        "tweeted_at": "2024-10-13T09:15:12.742067"
-    },
-    {
-        "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
-        "tweeted": true,
-        "tweeted_at": "2024-10-15T09:15:32.411738"
-    },
-    {
-        "text": "nik ja ohea ez dut ikusten\nbeste guztiek bezala",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
-        "tweeted": true,
-        "tweeted_at": "2024-10-16T09:15:32.707583"
-    },
-    {
-        "text": "baina ezetz txikirik\nbehiak jeizteko",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kat38",
-        "singer": "Andoni Ega\u00f1a",
-        "tweeted": true,
-        "tweeted_at": "2024-10-17T09:15:30.002550"
-    },
-    {
-        "text": "zein bero zen muxua ta\nnik zeinen hotz hartu dudan",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fkdc4",
-        "singer": "Maialen Lujanbio",
-        "tweeted": true,
-        "tweeted_at": "2024-10-19T09:15:07.009945"
-    },
-    {
-        "text": "baina joan bagoaz\nta onena hori da",
-        "url": "https://bertsoa.eus/bertsoak/22133-bukaerako-agurra-maddi-ane-txoperena",
-        "singer": "Maddi Ane Txoperena",
-        "tweeted": true,
-        "tweeted_at": "2024-10-21T09:15:42.218669"
-    },
-    {
-        "text": "iruditzen zait belodromoan\ngure artean dagola",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fo8t8",
-        "singer": "Andoni Ega\u00f1a",
-        "tweeted": true,
-        "tweeted_at": "2024-10-22T09:15:29.595779"
-    },
-    {
-        "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
-        "singer": "Unai Iturriaga @uiturriaga",
-        "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
-        "tweeted": true,
-        "tweeted_at": "2024-10-24T09:15:29.297027"
-    },
-    {
-        "text": "kontuz neguan ez dit\nedozerk balio",
-        "singer": "Xabat Galletebeita",
-        "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
-        "tweeted": true,
-        "tweeted_at": "2024-10-25T09:15:35.150873"
-    },
-    {
-        "text": "gure ametsen gidari\nharro ezak Xiberua!",
-        "url": "https://www.youtube.com/watch?v=I2nRZXhdwiA",
-        "singer": "Xiberutarrak",
-        "tweeted": true,
-        "tweeted_at": "2024-10-26T09:15:11.010643"
-    },
-    {
-        "text": "ni ziur nago egunen baten\nerakutsiko dugula\nbertsolaritzak barrabilekin\n zerikusirik ez dula!",
-        "singer": "Estitxu Arozena",
-        "url": "https://bertsoeskola.eus/baliabideak/194/",
-        "tweeted": true,
-        "tweeted_at": "2024-10-27T09:15:13.763534"
-    },
-    {
-        "text": "Ikatza ekarriko die\naitatxo ta amatxori",
-        "singer": "Aratz Igartzabal",
-        "tweeted": true,
-        "tweeted_at": "2024-10-28T09:15:45.235677"
-    },
-    {
-        "text": "Zeinek eman behar dio\nOlentzeroren berria",
-        "singer": "Aratz Igartzabal",
-        "tweeted": true,
-        "tweeted_at": "2024-10-29T09:15:32.691601"
-    },
-    {
-        "text": "Medikuntza da erreminta bat\nta maitasuna bestea",
-        "singer": "Agin Laburu",
-        "tweeted": true,
-        "tweeted_at": "2024-10-30T09:15:32.573660"
-    },
-    {
-        "text": "Ideiarik ez dauka\nAntton Telleriak",
-        "singer": "Agin Laburu",
-        "tweeted": true,
-        "tweeted_at": "2024-10-31T09:15:25.034551"
-    },
-    {
-        "text": "Orain gorrot duzuna\nmaiteko duzula gero",
-        "singer": "Alaia Martin",
-        "tweeted": true,
-        "tweeted_at": "2024-11-01T09:15:37.565624"
-    },
-    {
-        "text": "Hemendik urte batzuetara\nondoan egongo gara",
-        "singer": "Manu Goiogana @mgoiogana",
-        "tweeted": true,
-        "tweeted_at": "2024-11-02T09:15:22.174620"
-    },
-    {
-        "text": "Beraz jaistea tokatzen denez\nEibar ez da toki txarra",
-        "singer": "Manu Goiogana @mgoiogana",
-        "tweeted": true,
-        "tweeted_at": "2024-11-03T09:15:24.251519"
-    },
-    {
-        "text": "Bertsoak sortzen ditun lagunak\nbetiko geratzen dira",
-        "singer": "Eneko Araiztegi",
-        "tweeted": true,
-        "tweeted_at": "2024-11-04T09:15:54.393799"
-    },
-    {
-        "text": "Zabaldu belarriak\nahots berrieri",
-        "singer": "Alaia Martin",
-        "url": "https://bertsoa.eus/bertsoak/24475-irabazlearen-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-11-06T09:15:53.049694"
-    },
-    {
-        "text": "Maite denari tarteka joaten\nutzi egin behar zaio",
-        "singer": "Eneko Araiztegi",
-        "tweeted": true,
-        "tweeted_at": "2024-11-07T09:15:35.079337"
-    },
-    {
-        "text": "Mendian ez da egoten baina\nhala ere borobila",
-        "singer": "Aratz Igartzabal",
-        "tweeted": true,
-        "tweeted_at": "2024-11-08T09:15:23.066906"
-    },
-    {
-        "text": "Ta norbait etor dadila goxo\nbesarkatuko nauena",
-        "singer": "Haizea Arana",
-        "tweeted": true,
-        "tweeted_at": "2024-11-09T09:14:56.786558"
-    },
-    {
-        "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
-        "singer": "Onintza Enbeita",
-        "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-11-10T09:14:59.958688"
-    },
-    {
-        "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
-        "singer": "Peru Abarrategi",
-        "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi",
-        "tweeted": true,
-        "tweeted_at": "2024-11-11T09:15:39.151754"
-    },
-    {
-        "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
-        "singer": "Uxue Alberdi",
-        "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
-        "tweeted": true,
-        "tweeted_at": "2024-11-12T09:15:30.968547"
-    },
-    {
-        "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
-        "tweeted": true,
-        "tweeted_at": "2024-11-14T09:15:28.435618"
-    },
-    {
-        "text": "beraz sari hau ta muxu bat\nzirkuito hura edertzen\nduzuenei gero hona\nindarrez etor gaitezen",
-        "singer": "Aner \"Euzkitze\" Peritz",
-        "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra",
-        "tweeted": true,
-        "tweeted_at": "2024-11-15T09:15:35.825315"
-    },
-    {
-        "text": "ta ni kanpotik gizon plantetan\nbaina barrutik negarrez",
-        "singer": "Aitor Bizkarra",
-        "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
-        "tweeted": true,
-        "tweeted_at": "2024-11-16T09:15:13.091881"
-    },
-    {
-        "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
-        "singer": "Manex Agirre @manexagirre",
-        "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
-        "tweeted": true,
-        "tweeted_at": "2024-11-17T09:15:32.243368"
-    }
+  {
+    "text": "txistuak jo dituzute bainan\nmaite zaituztet orainik!",
+    "singer": "Fernando Aire \"Xalbador\"",
+    "url": "https://www.youtube.com/watch?v=ZOGIO6auXDU",
+    "tweeted": true,
+    "tweeted_at": "2024-08-27T12:09:56.289201"
+  },
+  {
+    "text": "nere eskutan baldin badago\nni ez naiz ohean hilko",
+    "singer": "Andoni Ega\u00f1a",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
+    "tweeted": true,
+    "tweeted_at": "2024-08-28T09:15:25.504415"
+  },
+  {
+    "text": "Zure pitxirik ez dakart baina\nhemen da zure alaba.",
+    "singer": "Maialen Lujanbio",
+    "url": "",
+    "tweeted": true,
+    "tweeted_at": "2024-08-29T09:15:26.935921"
+  },
+  {
+    "text": "ni bezelako gizon batentzat\nez ote da zoritxarra,\nitsasoa hain hurbil izan da\nohean egon beharra.",
+    "singer": "Andoni Ega\u00f1a",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
+    "tweeted": true,
+    "tweeted_at": "2024-08-30T09:15:22.369889"
+  },
+  {
+    "text": "nahi gabe joaten zaizkit\nhatzamarrak eztarrira",
+    "singer": "Nerea Ibarzabal",
+    "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+    "tweeted": true,
+    "tweeted_at": "2024-08-31T09:15:02.789348"
+  },
+  {
+    "text": "bihar goizean berdin-berdin zait\nze eguraldi ze giro\netorriko naiz berriro",
+    "singer": "Igor Elortza",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/k7lv8",
+    "tweeted": true,
+    "tweeted_at": "2024-09-01T09:15:06.337775"
+  },
+  {
+    "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
+    "singer": "Amets Arzalluz",
+    "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
+    "tweeted": true,
+    "tweeted_at": "2024-09-02T09:15:40.942996"
+  },
+  {
+    "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
+    "singer": "Andoni Ega\u00f1a",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
+    "tweeted": true,
+    "tweeted_at": "2024-09-04T09:15:26.543589"
+  },
+  {
+    "text": "zuen txaloak beretzat dira\nnere txapela ere bai",
+    "singer": "Andoni Ega\u00f1a",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/juqc8",
+    "tweeted": true,
+    "tweeted_at": "2024-09-05T09:15:04.947134"
+  },
+  {
+    "text": "arren sartu hatzamarrak\nta ateraizkidazu berbak",
+    "singer": "Nerea Ibarzabal",
+    "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+    "tweeted": true,
+    "tweeted_at": "2024-09-06T09:15:19.503225"
+  },
+  {
+    "text": "ya bardin deust finalik\neitten ez bada be!",
+    "singer": "Onintza Enbeita",
+    "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
+    "tweeted": true,
+    "tweeted_at": "2024-09-07T09:14:53.936118"
+  },
+  {
+    "text": "behar bada ez duzu\nezer sinetsiko\nbaina nik ez nituzke\nbegiak itxiko",
+    "singer": "Nerea Ibarzabal",
+    "url": "https://bertsoa.eus/bertsoak/20205-hasierako-agurra",
+    "tweeted": true,
+    "tweeted_at": "2024-09-08T09:15:02.841817"
+  },
+  {
+    "text": "gizonezkoen tarta honetan\nkrema ez degu izan nahi",
+    "singer": "Maialen Lujanbio",
+    "url": "https://bertsoeskola.eus/baliabideak/194/",
+    "tweeted": true,
+    "tweeted_at": "2024-09-09T09:15:42.576072"
+  },
+  {
+    "text": "agur t'erdi Berriz\nhorren eder ikusi\nnahi zintuzket berriz!",
+    "singer": "Koldo Gezuraga",
+    "url": "https://bertsoa.eus/bertsoak/22959-bukaerako-agurra-koldo-gezuraga-seijido",
+    "tweeted": true,
+    "tweeted_at": "2024-09-10T09:15:27.822999"
+  },
+  {
+    "text": "bertsoaren indarrak agur eta erdi!\nbihurtu nazazue Jon Maia bider bi!",
+    "singer": "Jon Maia",
+    "url": "https://bertsoa.eus/bertsoak/14858-hasierako-agurra-jon-maia-btn17",
+    "tweeted": true,
+    "tweeted_at": "2024-09-11T09:15:35.617768"
+  },
+  {
+    "text": "jainkoaren zigorra\nez ote da izan",
+    "singer": "Jon Martin",
+    "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
+    "tweeted": true,
+    "tweeted_at": "2024-09-13T09:15:17.728425"
+  },
+  {
+    "text": "baina kaskodun batek esan dit\nhemen ez da ezer pasa",
+    "singer": "Maialen Lujanbio",
+    "url": "https://bertsoa.eus/bertsoak/8263-kartzela (24:30)",
+    "tweeted": true,
+    "tweeted_at": "2024-09-14T09:15:08.535233"
+  },
+  {
+    "text": "ta gaur ez zaude Arenan baina\noholtzan nerekin zaude",
+    "singer": "Aitor Mendiluze",
+    "url": "https://bertsoa.eus/bertsoak/21544-bukaerako-agurra-aitor-mendiluze",
+    "tweeted": true,
+    "tweeted_at": "2024-09-15T09:15:19.203782"
+  },
+  {
+    "text": "argazkirikan ez izan arren\nhitzak jarriko ditugu",
+    "singer": "Maialen Lujanbio",
+    "url": "https://bertsoa.eus/bertsoak/8263-kartzela (29:15)",
+    "tweeted": true,
+    "tweeted_at": "2024-09-16T09:16:08.803427"
+  },
+  {
+    "text": "pasa ez denak erakusten du\nsarri asko pasa dena",
+    "singer": "Maialen Lujanbio",
+    "url": "https://bertsoa.eus/bertsoak/8263-kartzela (26:50)",
+    "tweeted": true,
+    "tweeted_at": "2024-09-17T09:15:14.173381"
+  },
+  {
+    "text": "lana dugu aurretik\nlehendabizi gabon!",
+    "singer": "Bittor Altube",
+    "url": "https://bertsoa.eus/bertsoak/23685-hasierako-agurra-bittor-altube-sarrionandia",
+    "tweeted": true,
+    "tweeted_at": "2024-09-19T09:20:25.997858"
+  },
+  {
+    "text": "Nere inon ez egon nahia ote\nda zure ezinegona.",
+    "singer": "Maialen Lujanbio",
+    "url": "https://bertsoa.eus/bertsoak/14800-kartzela-maialen-lujanbio-btn17",
+    "tweeted": true,
+    "tweeted_at": "2024-09-20T09:16:14.154369"
+  },
+  {
+    "text": "ama berdinak erditu baditu zazpi alaba!\nmerezi duen moduan zaindu zazue Araba!",
+    "singer": "Peru Abarrategi",
+    "url": "https://bertsoa.eus/bertsoak/20809-txapeldunaren-agurra-peru-abarrategi",
+    "tweeted": true,
+    "tweeted_at": "2024-09-21T09:15:00.904614"
+  },
+  {
+    "text": "gero ez etorri nire hiletara\nnegar batean txabales!\nbere sutea begiratzera\ndoan piromano bat lez!",
+    "singer": "Xabat Galletebeitia",
+    "url": "https://bertsoa.eus/bertsoak/23342-bakarka-gaia-emanda-xabat-galletebeitia-abaroa",
+    "tweeted": true,
+    "tweeted_at": "2024-09-22T09:15:03.808048"
+  },
+  {
+    "text": "ta askok hala pentsatu arren\nhau ez da nire errua",
+    "singer": "Ane Zuazubizkar",
+    "url": "https://bertsoa.eus/bertsoak/24347-bakarka-ane-zuazubiskar",
+    "tweeted": true,
+    "tweeted_at": "2024-09-23T09:16:02.468996"
+  },
+  {
+    "text": "batez ere da hotzikara bat\nbizkarrezurrean gora",
+    "singer": "Jon Gurrutxaga",
+    "url": "https://bertsoa.eus/bertsoak/24343-hasierako-agurra-jon-gurrutxaga",
+    "tweeted": true,
+    "tweeted_at": "2024-09-24T09:15:34.721134"
+  },
+  {
+    "text": "ta betikoa erantzun diet\nnekatuta baina pozik",
+    "singer": "Uxue Alberdi",
+    "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
+    "tweeted": true,
+    "tweeted_at": "2024-09-25T09:15:42.291966"
+  },
+  {
+    "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
+    "singer": "Nerea Ibarzabal",
+    "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+    "tweeted": true,
+    "tweeted_at": "2024-09-27T09:15:36.231035"
+  },
+  {
+    "text": "zahartutakuan ez da begiratzen\ngaztetan oin bezain sarri",
+    "singer": "Lazkao txiki",
+    "url": "https://www.youtube.com/watch?v=PVaHIxLk6V4",
+    "tweeted": true,
+    "tweeted_at": "2024-09-28T09:15:27.885136"
+  },
+  {
+    "text": "hik ez nauk noski ni ikusiko\nbaina nik ikusten haut hi",
+    "singer": "Lazkao txiki",
+    "url": "https://youtu.be/PVaHIxLk6V4?si=xDudWI2lCuLFDYTG&t=44",
+    "tweeted": true,
+    "tweeted_at": "2024-09-29T09:15:16.621414"
+  },
+  {
+    "text": "Debalde festa preparatzen det\ngogua dedan orduan",
+    "singer": "Xenpelar",
+    "url": "https://eu.wikipedia.org/wiki/Iparragirre_abila_dela",
+    "tweeted": true,
+    "tweeted_at": "2024-09-30T09:15:45.725621"
+  },
+  {
+    "text": "hor betirako damutuko zait\nhitzik egin ez izana",
+    "singer": "Nerea Ibarzabal",
+    "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173",
+    "tweeted": true,
+    "tweeted_at": "2024-10-01T09:15:39.310591"
+  },
+  {
+    "text": "azal zimurtzen ari haiz motel\nLazkao txiki bezela",
+    "singer": "Lazkao txiki",
+    "url": "https://youtu.be/PVaHIxLk6V4?si=INyoh8uO3RkGDKQg&t=92",
+    "tweeted": true,
+    "tweeted_at": "2024-10-02T09:15:27.554580"
+  },
+  {
+    "text": "nahiz eta izarren hautsa bilakatzen den bizigai\nbihar ez naiz joango eta egin zazue lo lasai",
+    "singer": "Sustrai Colina",
+    "url": "https://bertsoa.eus/bertsoak/21396-ganbara-gaia-sustrai-colina",
+    "tweeted": true,
+    "tweeted_at": "2024-10-03T09:15:31.848170"
+  },
+  {
+    "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
+    "singer": "Nerea Ibarzabal",
+    "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
+    "tweeted": true,
+    "tweeted_at": "2024-10-06T09:15:17.138279"
+  },
+  {
+    "text": "orain ez diot deirik egingo\nbehar ez dudan garaian",
+    "singer": "Oihana Iguaran",
+    "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120",
+    "tweeted": true,
+    "tweeted_at": "2024-10-07T09:15:40.433994"
+  },
+  {
+    "text": "ni soilik nago oholtzan baina\nekipo bat gara!",
+    "singer": "Amaia Agirre",
+    "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre",
+    "tweeted": true,
+    "tweeted_at": "2024-10-08T09:15:27.856682"
+  },
+  {
+    "text": "zenbat gorroto nuen lehen eta\norain zenbat maite dedan!",
+    "singer": "Andoni Ega\u00f1a",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/gkauo",
+    "tweeted": true,
+    "tweeted_at": "2024-10-09T09:15:42.634069"
+  },
+  {
+    "text": "hogei urtean ez dugu jakin\nbizirik zegoen ere",
+    "singer": "Oihana Iguaran",
+    "url": "https://youtu.be/GIG2eObyuJs?si=SFeDi3wWDfcur5pZ&t=232",
+    "tweeted": true,
+    "tweeted_at": "2024-10-10T09:15:33.310113"
+  },
+  {
+    "text": "ta orain hemen nago ta zuek\nnahi zaituztet elikatu",
+    "singer": "Maialen Akizu",
+    "url": "https://bertsoa.eus/bertsoak/21220-hasierako-agurra",
+    "tweeted": true,
+    "tweeted_at": "2024-10-11T09:15:27.878499"
+  },
+  {
+    "text": "trena gainera datorkidala\namesten baitet gauero",
+    "singer": "I\u00f1igo Mantzizidor \"Mantxi\"",
+    "url": "https://bertsoa.eus/bertsoak/10766-kartzela-inigo-mantzizidor-mantxi",
+    "tweeted": true,
+    "tweeted_at": "2024-10-12T09:15:28.415729"
+  },
+  {
+    "text": "puntuak ahaztu ta oilo azalez\nbete dezagun patrika",
+    "singer": "Uxue Alberdi",
+    "url": "https://bertsoa.eus/bertsoak/8294-hasierako-agurrak",
+    "tweeted": true,
+    "tweeted_at": "2024-10-13T09:15:12.742067"
+  },
+  {
+    "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
+    "singer": "Maialen Lujanbio",
+    "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
+    "tweeted": true,
+    "tweeted_at": "2024-10-15T09:15:32.411738"
+  },
+  {
+    "text": "nik ja ohea ez dut ikusten\nbeste guztiek bezala",
+    "singer": "Uxue Alberdi",
+    "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
+    "tweeted": true,
+    "tweeted_at": "2024-10-16T09:15:32.707583"
+  },
+  {
+    "text": "baina ezetz txikirik\nbehiak jeizteko",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kat38",
+    "singer": "Andoni Ega\u00f1a",
+    "tweeted": true,
+    "tweeted_at": "2024-10-17T09:15:30.002550"
+  },
+  {
+    "text": "zein bero zen muxua ta\nnik zeinen hotz hartu dudan",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fkdc4",
+    "singer": "Maialen Lujanbio",
+    "tweeted": true,
+    "tweeted_at": "2024-10-19T09:15:07.009945"
+  },
+  {
+    "text": "baina joan bagoaz\nta onena hori da",
+    "url": "https://bertsoa.eus/bertsoak/22133-bukaerako-agurra-maddi-ane-txoperena",
+    "singer": "Maddi Ane Txoperena",
+    "tweeted": true,
+    "tweeted_at": "2024-10-21T09:15:42.218669"
+  },
+  {
+    "text": "iruditzen zait belodromoan\ngure artean dagola",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/fo8t8",
+    "singer": "Andoni Ega\u00f1a",
+    "tweeted": true,
+    "tweeted_at": "2024-10-22T09:15:29.595779"
+  },
+  {
+    "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
+    "singer": "Unai Iturriaga @uiturriaga",
+    "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
+    "tweeted": true,
+    "tweeted_at": "2024-10-24T09:15:29.297027"
+  },
+  {
+    "text": "kontuz neguan ez dit\nedozerk balio",
+    "singer": "Xabat Galletebeita",
+    "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
+    "tweeted": true,
+    "tweeted_at": "2024-10-25T09:15:35.150873"
+  },
+  {
+    "text": "gure ametsen gidari\nharro ezak Xiberua!",
+    "url": "https://www.youtube.com/watch?v=I2nRZXhdwiA",
+    "singer": "Xiberutarrak",
+    "tweeted": true,
+    "tweeted_at": "2024-10-26T09:15:11.010643"
+  },
+  {
+    "text": "ni ziur nago egunen baten\nerakutsiko dugula\nbertsolaritzak barrabilekin\n zerikusirik ez dula!",
+    "singer": "Estitxu Arozena",
+    "url": "https://bertsoeskola.eus/baliabideak/194/",
+    "tweeted": true,
+    "tweeted_at": "2024-10-27T09:15:13.763534"
+  },
+  {
+    "text": "Ikatza ekarriko die\naitatxo ta amatxori",
+    "singer": "Aratz Igartzabal",
+    "tweeted": true,
+    "tweeted_at": "2024-10-28T09:15:45.235677"
+  },
+  {
+    "text": "Zeinek eman behar dio\nOlentzeroren berria",
+    "singer": "Aratz Igartzabal",
+    "tweeted": true,
+    "tweeted_at": "2024-10-29T09:15:32.691601"
+  },
+  {
+    "text": "Medikuntza da erreminta bat\nta maitasuna bestea",
+    "singer": "Agin Laburu",
+    "tweeted": true,
+    "tweeted_at": "2024-10-30T09:15:32.573660"
+  },
+  {
+    "text": "Ideiarik ez dauka\nAntton Telleriak",
+    "singer": "Agin Laburu",
+    "tweeted": true,
+    "tweeted_at": "2024-10-31T09:15:25.034551"
+  },
+  {
+    "text": "Orain gorrot duzuna\nmaiteko duzula gero",
+    "singer": "Alaia Martin",
+    "tweeted": true,
+    "tweeted_at": "2024-11-01T09:15:37.565624"
+  },
+  {
+    "text": "Hemendik urte batzuetara\nondoan egongo gara",
+    "singer": "Manu Goiogana @mgoiogana",
+    "tweeted": true,
+    "tweeted_at": "2024-11-02T09:15:22.174620"
+  },
+  {
+    "text": "Beraz jaistea tokatzen denez\nEibar ez da toki txarra",
+    "singer": "Manu Goiogana @mgoiogana",
+    "tweeted": true,
+    "tweeted_at": "2024-11-03T09:15:24.251519"
+  },
+  {
+    "text": "Bertsoak sortzen ditun lagunak\nbetiko geratzen dira",
+    "singer": "Eneko Araiztegi",
+    "tweeted": true,
+    "tweeted_at": "2024-11-04T09:15:54.393799"
+  },
+  {
+    "text": "Zabaldu belarriak\nahots berrieri",
+    "singer": "Alaia Martin",
+    "url": "https://bertsoa.eus/bertsoak/24475-irabazlearen-agurra",
+    "tweeted": true,
+    "tweeted_at": "2024-11-06T09:15:53.049694"
+  },
+  {
+    "text": "Maite denari tarteka joaten\nutzi egin behar zaio",
+    "singer": "Eneko Araiztegi",
+    "tweeted": true,
+    "tweeted_at": "2024-11-07T09:15:35.079337"
+  },
+  {
+    "text": "Mendian ez da egoten baina\nhala ere borobila",
+    "singer": "Aratz Igartzabal",
+    "tweeted": true,
+    "tweeted_at": "2024-11-08T09:15:23.066906"
+  },
+  {
+    "text": "Ta norbait etor dadila goxo\nbesarkatuko nauena",
+    "singer": "Haizea Arana",
+    "tweeted": true,
+    "tweeted_at": "2024-11-09T09:14:56.786558"
+  },
+  {
+    "text": "plazaz-plaza bueltau nahi dot\njaso dodan maitasuna",
+    "singer": "Onintza Enbeita",
+    "url": "https://bertsoa.eus/bertsoak/16107-onintza-enbeita-txapeldunaren-agurra",
+    "tweeted": true,
+    "tweeted_at": "2024-11-10T09:14:59.958688"
+  },
+  {
+    "text": "txapelarekin egin dut\n gaur Jimmy Jazzean dantza!",
+    "singer": "Peru Abarrategi",
+    "url": "https://bertsoa.eus/bertsoak/20842-buruz-burukoa-peru-abarrategi",
+    "tweeted": true,
+    "tweeted_at": "2024-11-11T09:15:39.151754"
+  },
+  {
+    "text": "gau guzti hontan lehenengo aldiz\nmaitasuna jasotzera",
+    "singer": "Uxue Alberdi",
+    "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
+    "tweeted": true,
+    "tweeted_at": "2024-11-12T09:15:30.968547"
+  },
+  {
+    "text": "bagarenaren pozak sustraiak\naskoz sakonago ditu",
+    "singer": "Maialen Lujanbio",
+    "url": "https://bdb.bertsozale.eus/web/bertsoa/view/kei64",
+    "tweeted": true,
+    "tweeted_at": "2024-11-14T09:15:28.435618"
+  },
+  {
+    "text": "beraz sari hau ta muxu bat\nzirkuito hura edertzen\nduzuenei gero hona\nindarrez etor gaitezen",
+    "singer": "Aner \"Euzkitze\" Peritz",
+    "url": "https://bertsoa.eus/bertsoak/23684-aner-peritz-euzkitze-osinaldeko-irabazlearen-agurra",
+    "tweeted": true,
+    "tweeted_at": "2024-11-15T09:15:35.825315"
+  },
+  {
+    "text": "ta ni kanpotik gizon plantetan\nbaina barrutik negarrez",
+    "singer": "Aitor Bizkarra",
+    "url": "https://bertsoa.eus/bertsoak/21348-ganbara-aitor-bizkarra",
+    "tweeted": true,
+    "tweeted_at": "2024-11-16T09:15:13.091881"
+  },
+  {
+    "text": "gauza ederrenak beti irtetzen\ndira itzalen artetik",
+    "singer": "Manex Agirre @manexagirre",
+    "url": "https://bertsoa.eus/bertsoak/23633-bukaerako-agurra-manex-agirre-arriolabengoa",
+    "tweeted": true,
+    "tweeted_at": "2024-11-17T09:15:32.243368"
+  },
+  {
+    "text": "hitzak gorde nahi ditut\ndatorrenerako",
+    "singer": "Nerea Elustondo"
+  },
+
+  {
+    "text": "gauza gogorrak ezin baitira\ninoiz xuabe informatu",
+    "singer": "Asier Azpiroz"
+  },
+
+  {
+    "text": "informatzeko ez dugu zertan\nmorboa zabaldu behar",
+    "singer": "Eli Pagola"
+  },
+
+  {
+    "text": "orain jenderik progreenak ere\nbaserrian bizi nahi du",
+    "singer": "Ane Labaka"
+  },
+
+  {
+    "text": "Institutuan oraindik dira\nkaxero eta kaxera",
+    "singer": "Nerea Elustondo"
+  },
+
+  {
+    "text": "ximaur usainak ta zintzarriek\ntraba egiten diete",
+    "singer": "Nerea Elustondo"
+  },
+  {
+    "text": "Baserritarrak asko goratu\nta Mercadonan erosi",
+    "singer": "Nerea Elustondo"
+  },
+
+  {
+    "text": "Maitasunari ez dago zertan\nbikote formarik eman",
+    "singer": "Beñat Gaztelumendi"
+  },
+  {
+    "text": "Ez zait interesatzen\neta ez deitu berriz",
+    "singer": "Oier Etxeberria"
+  },
+
+  {
+    "text": "Sar zaitez kaxa hontan\nzatitu zaitzadan",
+    "singer": "Nerea Elustondo"
+  },
+
+  {
+    "text": "Ni gehiago zatitzen\nkosta behar zaizu",
+    "singer": "Beñat Gaztelumendi"
+  },
+
+  {
+    "text": "Hori Txan magoari\nikasi nion nik",
+    "singer": "Beñat Gaztelumendi"
+  },
+
+  {
+    "text": "Bertsolaria uso\nbihurtu dadila",
+    "singer": "Nerea Elustondo"
+  },
+
+  {
+    "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
+    "singer": "Nerea Elustondo"
+  },
+
+  {
+    "text": "Orain ulertu behar al nuen\nkirolaren prezioa",
+    "singer": "Eli Pagola"
+  },
+
+  {
+    "text": "Gutxien uste dugun unean\nbehar dutelako zaintza",
+    "singer": "Ane Labaka"
+  },
+
+  {
+    "text": "Ai teorian ze erreza den\nta ze zaila den praktikan",
+    "singer": "Ane Labaka"
+  },
+
+  {
+    "text": "Horixe da Donostiaz\nkontatzen ez digutena",
+    "singer": "Beñat Gaztelumendi"
+  },
+  {
+    "text": "Portalak barrotez itxi\nta afariak debekatu",
+    "singer": "Beñat Gaztelumendi"
+  },
+  {
+    "text": "Ta hala gabiltza kaleak\ngarbitu eta garbitu",
+    "singer": "Beñat Gaztelumendi"
+  },
+
+  {
+    "text": "baina bideak ere\nasko balio du",
+    "singer": "Eli Pagola"
+  },
+
+  {
+    "text": "Aurrena zaindu ta estimatu\netxekoen sutondoa",
+    "singer": "Oier Etxeberria"
+  },
+
+  {
+    "text": "Bertsoa gauza sorgina da ta\nsegi dezala izaten",
+    "singer": "Asier Azpiroz"
+  },
+
+  {
+    "text": "Ez dakizue zenbat\nmaite zaituztedan",
+    "singer": "Beñat Gaztelumendi"
+  }
 ]
