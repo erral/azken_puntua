@@ -534,10 +534,6 @@
         "singer": "Be\u00f1at Gaztelumendi"
     },
     {
-        "text": "Bertsolaria uso\nbihurtu dadila",
-        "singer": "Nerea Elustondo"
-    },
-    {
         "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
         "singer": "Nerea Elustondo"
     },
@@ -591,5 +587,11 @@
         "singer": "Eli Pagola",
         "tweeted": true,
         "tweeted_at": "2024-11-21T09:15:39.242678"
+    },
+    {
+        "text": "Bertsolaria uso\nbihurtu dadila",
+        "singer": "Nerea Elustondo",
+        "tweeted": true,
+        "tweeted_at": "2024-11-22T09:15:39.764295"
     }
 ]
