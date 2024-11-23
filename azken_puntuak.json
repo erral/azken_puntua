@@ -490,10 +490,6 @@
         "singer": "Nerea Elustondo"
     },
     {
-        "text": "gauza gogorrak ezin baitira\ninoiz xuabe informatu",
-        "singer": "Asier Azpiroz"
-    },
-    {
         "text": "informatzeko ez dugu zertan\nmorboa zabaldu behar",
         "singer": "Eli Pagola"
     },
@@ -593,5 +589,11 @@
         "singer": "Nerea Elustondo",
         "tweeted": true,
         "tweeted_at": "2024-11-22T09:15:39.764295"
+    },
+    {
+        "text": "gauza gogorrak ezin baitira\ninoiz xuabe informatu",
+        "singer": "Asier Azpiroz",
+        "tweeted": true,
+        "tweeted_at": "2024-11-23T09:15:21.421420"
     }
 ]
