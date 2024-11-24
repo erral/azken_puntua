@@ -534,10 +534,6 @@
         "singer": "Nerea Elustondo"
     },
     {
-        "text": "Gutxien uste dugun unean\nbehar dutelako zaintza",
-        "singer": "Ane Labaka"
-    },
-    {
         "text": "Ai teorian ze erreza den\nta ze zaila den praktikan",
         "singer": "Ane Labaka"
     },
@@ -595,5 +591,11 @@
         "singer": "Asier Azpiroz",
         "tweeted": true,
         "tweeted_at": "2024-11-23T09:15:21.421420"
+    },
+    {
+        "text": "Gutxien uste dugun unean\nbehar dutelako zaintza",
+        "singer": "Ane Labaka",
+        "tweeted": true,
+        "tweeted_at": "2024-11-24T09:15:09.090545"
     }
 ]
