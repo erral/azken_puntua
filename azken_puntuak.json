@@ -498,10 +498,6 @@
         "singer": "Ane Labaka"
     },
     {
-        "text": "Institutuan oraindik dira\nkaxero eta kaxera",
-        "singer": "Nerea Elustondo"
-    },
-    {
         "text": "ximaur usainak ta zintzarriek\ntraba egiten diete",
         "singer": "Nerea Elustondo"
     },
@@ -597,5 +593,11 @@
         "singer": "Ane Labaka",
         "tweeted": true,
         "tweeted_at": "2024-11-24T09:15:09.090545"
+    },
+    {
+        "text": "Institutuan oraindik dira\nkaxero eta kaxera",
+        "singer": "Nerea Elustondo",
+        "tweeted": true,
+        "tweeted_at": "2024-11-25T09:15:51.364534"
     }
 ]
