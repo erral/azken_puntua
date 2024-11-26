@@ -522,10 +522,6 @@
         "singer": "Be\u00f1at Gaztelumendi"
     },
     {
-        "text": "Hori Txan magoari\nikasi nion nik",
-        "singer": "Be\u00f1at Gaztelumendi"
-    },
-    {
         "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
         "singer": "Nerea Elustondo"
     },
@@ -599,5 +595,11 @@
         "singer": "Nerea Elustondo",
         "tweeted": true,
         "tweeted_at": "2024-11-25T09:15:51.364534"
+    },
+    {
+        "text": "Hori Txan magoari\nikasi nion nik",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2024-11-26T09:15:57.303238"
     }
 ]
