@@ -514,10 +514,6 @@
         "singer": "Oier Etxeberria"
     },
     {
-        "text": "Sar zaitez kaxa hontan\nzatitu zaitzadan",
-        "singer": "Nerea Elustondo"
-    },
-    {
         "text": "Ni gehiago zatitzen\nkosta behar zaizu",
         "singer": "Be\u00f1at Gaztelumendi"
     },
@@ -601,5 +597,11 @@
         "singer": "Be\u00f1at Gaztelumendi",
         "tweeted": true,
         "tweeted_at": "2024-11-26T09:15:57.303238"
+    },
+    {
+        "text": "Sar zaitez kaxa hontan\nzatitu zaitzadan",
+        "singer": "Nerea Elustondo",
+        "tweeted": true,
+        "tweeted_at": "2024-11-27T09:15:50.633268"
     }
 ]
