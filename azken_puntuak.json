@@ -494,10 +494,6 @@
         "singer": "Eli Pagola"
     },
     {
-        "text": "orain jenderik progreenak ere\nbaserrian bizi nahi du",
-        "singer": "Ane Labaka"
-    },
-    {
         "text": "ximaur usainak ta zintzarriek\ntraba egiten diete",
         "singer": "Nerea Elustondo"
     },
@@ -603,5 +599,11 @@
         "singer": "Nerea Elustondo",
         "tweeted": true,
         "tweeted_at": "2024-11-27T09:15:50.633268"
+    },
+    {
+        "text": "orain jenderik progreenak ere\nbaserrian bizi nahi du",
+        "singer": "Ane Labaka",
+        "tweeted": true,
+        "tweeted_at": "2024-11-28T09:15:46.027502"
     }
 ]
