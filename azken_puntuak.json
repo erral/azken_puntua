@@ -498,10 +498,6 @@
         "singer": "Oier Etxeberria"
     },
     {
-        "text": "Ni gehiago zatitzen\nkosta behar zaizu",
-        "singer": "Be\u00f1at Gaztelumendi"
-    },
-    {
         "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
         "singer": "Nerea Elustondo"
     },
@@ -615,5 +611,11 @@
         "singer": "Oier Etxeberria",
         "tweeted": true,
         "tweeted_at": "2024-12-03T09:15:46.929478"
+    },
+    {
+        "text": "Ni gehiago zatitzen\nkosta behar zaizu",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2024-12-04T09:15:45.265033"
     }
 ]
