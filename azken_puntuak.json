@@ -502,10 +502,6 @@
         "singer": "Nerea Elustondo"
     },
     {
-        "text": "Ai teorian ze erreza den\nta ze zaila den praktikan",
-        "singer": "Ane Labaka"
-    },
-    {
         "text": "Bertsoa gauza sorgina da ta\nsegi dezala izaten",
         "singer": "Asier Azpiroz"
     },
@@ -617,5 +613,11 @@
         "singer": "Be\u00f1at Gaztelumendi",
         "tweeted": true,
         "tweeted_at": "2024-12-04T09:15:45.265033"
+    },
+    {
+        "text": "Ai teorian ze erreza den\nta ze zaila den praktikan",
+        "singer": "Ane Labaka",
+        "tweeted": true,
+        "tweeted_at": "2024-12-05T09:15:47.128724"
     }
 ]
