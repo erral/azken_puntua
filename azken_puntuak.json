@@ -702,11 +702,6 @@
         "url": "https://bertsoa.eus/bertsoak/24744-hasierako-agurra-maider-arregi"
     },
     {
-        "text": "baina aldiro galdu nuena\ndago zuen begietan!",
-        "singer": "Oihana Iguaran",
-        "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
-    },
-    {
         "text": "hemen azpitik begiraezin naiz\nja jarriz zuen parean",
         "singer": "Oihana Iguaran",
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
@@ -727,5 +722,12 @@
         "url": "https://bertsoa.eus/bertsoak/24766-bukaerako-agurra-agin-laburu",
         "tweeted": true,
         "tweeted_at": "2024-12-07T09:15:23.854494"
+    },
+    {
+        "text": "baina aldiro galdu nuena\ndago zuen begietan!",
+        "singer": "Oihana Iguaran",
+        "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran",
+        "tweeted": true,
+        "tweeted_at": "2024-12-08T09:15:20.159313"
     }
 ]
