@@ -672,11 +672,6 @@
         "url": "https://bertsoa.eus/bertsoak/24711-hasierako-agurra-aner-euzkitze"
     },
     {
-        "text": "askok txantxetan galdetu izan dit\n\"non dago haurraren aita?\"",
-        "singer": "Aner \"Euzkitze\"",
-        "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
-    },
-    {
         "text": "igual harritzen zarete baina\nlagunak dauzkat ondoan",
         "singer": "Aner \"Euzkitze\"",
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
@@ -729,5 +724,12 @@
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran",
         "tweeted": true,
         "tweeted_at": "2024-12-08T09:15:20.159313"
+    },
+    {
+        "text": "askok txantxetan galdetu izan dit\n\"non dago haurraren aita?\"",
+        "singer": "Aner \"Euzkitze\"",
+        "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
+        "tweeted": true,
+        "tweeted_at": "2024-12-09T09:15:55.898461"
     }
 ]
