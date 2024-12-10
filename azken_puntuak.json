@@ -486,10 +486,6 @@
         "tweeted_at": "2024-11-17T09:15:32.243368"
     },
     {
-        "text": "hitzak gorde nahi ditut\ndatorrenerako",
-        "singer": "Nerea Elustondo"
-    },
-    {
         "text": "Maitasunari ez dago zertan\nbikote formarik eman",
         "singer": "Be\u00f1at Gaztelumendi"
     },
@@ -731,5 +727,11 @@
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
         "tweeted": true,
         "tweeted_at": "2024-12-09T09:15:55.898461"
+    },
+    {
+        "text": "hitzak gorde nahi ditut\ndatorrenerako",
+        "singer": "Nerea Elustondo",
+        "tweeted": true,
+        "tweeted_at": "2024-12-10T09:15:52.156300"
     }
 ]
