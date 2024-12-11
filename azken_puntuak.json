@@ -486,10 +486,6 @@
         "tweeted_at": "2024-11-17T09:15:32.243368"
     },
     {
-        "text": "Maitasunari ez dago zertan\nbikote formarik eman",
-        "singer": "Be\u00f1at Gaztelumendi"
-    },
-    {
         "text": "Ez zait interesatzen\neta ez deitu berriz",
         "singer": "Oier Etxeberria"
     },
@@ -733,5 +729,11 @@
         "singer": "Nerea Elustondo",
         "tweeted": true,
         "tweeted_at": "2024-12-10T09:15:52.156300"
+    },
+    {
+        "text": "Maitasunari ez dago zertan\nbikote formarik eman",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2024-12-11T09:15:42.982058"
     }
 ]
