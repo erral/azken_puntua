@@ -639,10 +639,6 @@
         "singer": "Amets Arzallus"
     },
     {
-        "text": "Pozik hartuko genuke askok\nbere erre karratua",
-        "singer": "Jone Uria"
-    },
-    {
         "text": "ez al zenidan esan\nzu zinela Messi",
         "singer": "Amets Arzallus"
     },
@@ -735,5 +731,11 @@
         "singer": "Be\u00f1at Gaztelumendi",
         "tweeted": true,
         "tweeted_at": "2024-12-11T09:15:42.982058"
+    },
+    {
+        "text": "Pozik hartuko genuke askok\nbere erre karratua",
+        "singer": "Jone Uria",
+        "tweeted": true,
+        "tweeted_at": "2024-12-12T09:15:43.903130"
     }
 ]
