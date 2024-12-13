@@ -490,10 +490,6 @@
         "singer": "Oier Etxeberria"
     },
     {
-        "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
-        "singer": "Nerea Elustondo"
-    },
-    {
         "text": "Bertsoa gauza sorgina da ta\nsegi dezala izaten",
         "singer": "Asier Azpiroz"
     },
@@ -737,5 +733,11 @@
         "singer": "Jone Uria",
         "tweeted": true,
         "tweeted_at": "2024-12-12T09:15:43.903130"
+    },
+    {
+        "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
+        "singer": "Nerea Elustondo",
+        "tweeted": true,
+        "tweeted_at": "2024-12-13T09:15:41.257623"
     }
 ]
