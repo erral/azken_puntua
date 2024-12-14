@@ -623,10 +623,6 @@
         "singer": "Jexux Mari Irazu"
     },
     {
-        "text": "Elkarrizketa bat da askotan\ngu goxatzen gaituena",
-        "singer": "Maialen Lujanbio"
-    },
-    {
         "text": "Mundu honetan bakezale asko\nbakegilerik apenas",
         "singer": "Amets Arzallus"
     },
@@ -739,5 +735,11 @@
         "singer": "Nerea Elustondo",
         "tweeted": true,
         "tweeted_at": "2024-12-13T09:15:41.257623"
+    },
+    {
+        "text": "Elkarrizketa bat da askotan\ngu goxatzen gaituena",
+        "singer": "Maialen Lujanbio",
+        "tweeted": true,
+        "tweeted_at": "2024-12-14T09:15:20.193742"
     }
 ]
