@@ -687,11 +687,6 @@
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
     },
     {
-        "text": "hemendik kanpo ingu\ngure gauzatxuak!",
-        "singer": "Maider Arregi",
-        "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi"
-    },
-    {
         "text": "baino segi bertsotan\nmarabilatua\ntrentzak hoiek bezela\nkorapilatua!",
         "singer": "Agin Laburu",
         "url": "https://bertsoa.eus/bertsoak/24766-bukaerako-agurra-agin-laburu",
@@ -741,5 +736,12 @@
         "singer": "Maialen Lujanbio",
         "tweeted": true,
         "tweeted_at": "2024-12-14T09:15:20.193742"
+    },
+    {
+        "text": "hemendik kanpo ingu\ngure gauzatxuak!",
+        "singer": "Maider Arregi",
+        "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi",
+        "tweeted": true,
+        "tweeted_at": "2024-12-15T09:15:17.502336"
     }
 ]
