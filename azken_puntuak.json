@@ -635,10 +635,6 @@
         "singer": "Amets Arzallus"
     },
     {
-        "text": "Eibar degu herri bat\ndeskribaezina",
-        "singer": "Aitor Mendiluze"
-    },
-    {
         "text": "Neri benetan gustatzen zait haur\nzaharren edertasuna",
         "singer": "Aitor Mendiluze"
     },
@@ -743,5 +739,11 @@
         "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi",
         "tweeted": true,
         "tweeted_at": "2024-12-15T09:15:17.502336"
+    },
+    {
+        "text": "Eibar degu herri bat\ndeskribaezina",
+        "singer": "Aitor Mendiluze",
+        "tweeted": true,
+        "tweeted_at": "2024-12-16T09:15:54.607767"
     }
 ]
