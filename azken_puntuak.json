@@ -668,11 +668,6 @@
         "url": "https://bertsoa.eus/bertsoak/24742-hasierako-agurra-oihana-iguaran"
     },
     {
-        "text": "ta bueltan-bueltan Mondran nau oholtzan\nkosmosari hau eskatu notzan\ntxinpartetatik dragoia\nhegaz urtetera doia!",
-        "singer": "Maider Arregi",
-        "url": "https://bertsoa.eus/bertsoak/24744-hasierako-agurra-maider-arregi"
-    },
-    {
         "text": "hemen azpitik begiraezin naiz\nja jarriz zuen parean",
         "singer": "Oihana Iguaran",
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
@@ -745,5 +740,12 @@
         "singer": "Aitor Mendiluze",
         "tweeted": true,
         "tweeted_at": "2024-12-16T09:15:54.607767"
+    },
+    {
+        "text": "ta bueltan-bueltan Mondran nau oholtzan\nkosmosari hau eskatu notzan\ntxinpartetatik dragoia\nhegaz urtetera doia!",
+        "singer": "Maider Arregi",
+        "url": "https://bertsoa.eus/bertsoak/24744-hasierako-agurra-maider-arregi",
+        "tweeted": true,
+        "tweeted_at": "2024-12-17T09:15:49.053842"
     }
 ]
