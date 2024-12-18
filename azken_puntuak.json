@@ -639,10 +639,6 @@
         "singer": "Aitor Mendiluze"
     },
     {
-        "text": "Gaur jasotako berotasuna\ntupper batean daramat",
-        "singer": "Alaia Martin"
-    },
-    {
         "text": "haur izu hura hazi egin da\neta mendekua nahi du",
         "singer": "Aner \"Euzkitze\"",
         "url": "https://bertsoa.eus/bertsoak/24711-hasierako-agurra-aner-euzkitze"
@@ -747,5 +743,11 @@
         "url": "https://bertsoa.eus/bertsoak/24744-hasierako-agurra-maider-arregi",
         "tweeted": true,
         "tweeted_at": "2024-12-17T09:15:49.053842"
+    },
+    {
+        "text": "Gaur jasotako berotasuna\ntupper batean daramat",
+        "singer": "Alaia Martin",
+        "tweeted": true,
+        "tweeted_at": "2024-12-18T09:15:38.831864"
     }
 ]
