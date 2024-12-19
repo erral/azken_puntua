@@ -611,10 +611,6 @@
         "tweeted_at": "2024-12-06T09:15:40.363508"
     },
     {
-        "text": "Seguru asko ezautzen naute\nPirritx eta Porrotxetik",
-        "singer": "Maialen Lujanbio"
-    },
-    {
         "text": "Nori gustatzen zaio plater bat\nprobatu baino lehenago",
         "singer": "Aitor Mendiluze"
     },
@@ -749,5 +745,11 @@
         "singer": "Alaia Martin",
         "tweeted": true,
         "tweeted_at": "2024-12-18T09:15:38.831864"
+    },
+    {
+        "text": "Seguru asko ezautzen naute\nPirritx eta Porrotxetik",
+        "singer": "Maialen Lujanbio",
+        "tweeted": true,
+        "tweeted_at": "2024-12-19T09:16:15.104342"
     }
 ]
