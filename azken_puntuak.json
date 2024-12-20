@@ -611,10 +611,6 @@
         "tweeted_at": "2024-12-06T09:15:40.363508"
     },
     {
-        "text": "Nori gustatzen zaio plater bat\nprobatu baino lehenago",
-        "singer": "Aitor Mendiluze"
-    },
-    {
         "text": "Nahiago nuke zaintzaile ingles bat\nipiniko baliote",
         "singer": "Jexux Mari Irazu"
     },
@@ -751,5 +747,11 @@
         "singer": "Maialen Lujanbio",
         "tweeted": true,
         "tweeted_at": "2024-12-19T09:16:15.104342"
+    },
+    {
+        "text": "Nori gustatzen zaio plater bat\nprobatu baino lehenago",
+        "singer": "Aitor Mendiluze",
+        "tweeted": true,
+        "tweeted_at": "2024-12-20T09:15:25.016404"
     }
 ]
