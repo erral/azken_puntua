@@ -611,10 +611,6 @@
         "tweeted_at": "2024-12-06T09:15:40.363508"
     },
     {
-        "text": "Nahiago nuke zaintzaile ingles bat\nipiniko baliote",
-        "singer": "Jexux Mari Irazu"
-    },
-    {
         "text": "Mundu honetan bakezale asko\nbakegilerik apenas",
         "singer": "Amets Arzallus"
     },
@@ -753,5 +749,11 @@
         "singer": "Aitor Mendiluze",
         "tweeted": true,
         "tweeted_at": "2024-12-20T09:15:25.016404"
+    },
+    {
+        "text": "Nahiago nuke zaintzaile ingles bat\nipiniko baliote",
+        "singer": "Jexux Mari Irazu",
+        "tweeted": true,
+        "tweeted_at": "2024-12-21T09:14:56.512925"
     }
 ]
