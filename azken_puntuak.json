@@ -642,11 +642,6 @@
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
     },
     {
-        "text": "Mila esker. Sinatuta:\nAnerren antsietatea",
-        "singer": "Aner \"Euzkitze\"",
-        "url": "https://bertsoa.eus/bertsoak/24731-bukaerako-agurra-aner-euzkitze"
-    },
-    {
         "text": "ea gaur ere gure hitzen bat\nzuei itsatsita doan!",
         "singer": "Oihana Iguaran",
         "url": "https://bertsoa.eus/bertsoak/24742-hasierako-agurra-oihana-iguaran"
@@ -755,5 +750,12 @@
         "singer": "Jexux Mari Irazu",
         "tweeted": true,
         "tweeted_at": "2024-12-21T09:14:56.512925"
+    },
+    {
+        "text": "Mila esker. Sinatuta:\nAnerren antsietatea",
+        "singer": "Aner \"Euzkitze\"",
+        "url": "https://bertsoa.eus/bertsoak/24731-bukaerako-agurra-aner-euzkitze",
+        "tweeted": true,
+        "tweeted_at": "2024-12-22T09:14:59.120513"
     }
 ]
