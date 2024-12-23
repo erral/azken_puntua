@@ -611,10 +611,6 @@
         "tweeted_at": "2024-12-06T09:15:40.363508"
     },
     {
-        "text": "Mundu honetan bakezale asko\nbakegilerik apenas",
-        "singer": "Amets Arzallus"
-    },
-    {
         "text": "Misilak hurrun botatzeitugu\neta hemengoak ahantzi",
         "singer": "Amets Arzallus"
     },
@@ -757,5 +753,11 @@
         "url": "https://bertsoa.eus/bertsoak/24731-bukaerako-agurra-aner-euzkitze",
         "tweeted": true,
         "tweeted_at": "2024-12-22T09:14:59.120513"
+    },
+    {
+        "text": "Mundu honetan bakezale asko\nbakegilerik apenas",
+        "singer": "Amets Arzallus",
+        "tweeted": true,
+        "tweeted_at": "2024-12-23T09:15:36.073179"
     }
 ]
