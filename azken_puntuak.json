@@ -633,11 +633,6 @@
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
     },
     {
-        "text": "ta nahiago dut horrela egon\nzuen nobioekin baino",
-        "singer": "Aner \"Euzkitze\"",
-        "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
-    },
-    {
         "text": "ea gaur ere gure hitzen bat\nzuei itsatsita doan!",
         "singer": "Oihana Iguaran",
         "url": "https://bertsoa.eus/bertsoak/24742-hasierako-agurra-oihana-iguaran"
@@ -759,5 +754,12 @@
         "singer": "Amets Arzallus",
         "tweeted": true,
         "tweeted_at": "2024-12-23T09:15:36.073179"
+    },
+    {
+        "text": "ta nahiago dut horrela egon\nzuen nobioekin baino",
+        "singer": "Aner \"Euzkitze\"",
+        "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
+        "tweeted": true,
+        "tweeted_at": "2024-12-24T09:15:23.188379"
     }
 ]
