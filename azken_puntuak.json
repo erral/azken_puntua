@@ -633,11 +633,6 @@
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
     },
     {
-        "text": "ea gaur ere gure hitzen bat\nzuei itsatsita doan!",
-        "singer": "Oihana Iguaran",
-        "url": "https://bertsoa.eus/bertsoak/24742-hasierako-agurra-oihana-iguaran"
-    },
-    {
         "text": "hemen azpitik begiraezin naiz\nja jarriz zuen parean",
         "singer": "Oihana Iguaran",
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
@@ -761,5 +756,12 @@
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
         "tweeted": true,
         "tweeted_at": "2024-12-24T09:15:23.188379"
+    },
+    {
+        "text": "ea gaur ere gure hitzen bat\nzuei itsatsita doan!",
+        "singer": "Oihana Iguaran",
+        "url": "https://bertsoa.eus/bertsoak/24742-hasierako-agurra-oihana-iguaran",
+        "tweeted": true,
+        "tweeted_at": "2024-12-25T09:15:18.812105"
     }
 ]
