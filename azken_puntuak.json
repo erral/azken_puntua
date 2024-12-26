@@ -486,10 +486,6 @@
         "tweeted_at": "2024-11-17T09:15:32.243368"
     },
     {
-        "text": "Ez zait interesatzen\neta ez deitu berriz",
-        "singer": "Oier Etxeberria"
-    },
-    {
         "text": "Bertsoa gauza sorgina da ta\nsegi dezala izaten",
         "singer": "Asier Azpiroz"
     },
@@ -763,5 +759,11 @@
         "url": "https://bertsoa.eus/bertsoak/24742-hasierako-agurra-oihana-iguaran",
         "tweeted": true,
         "tweeted_at": "2024-12-25T09:15:18.812105"
+    },
+    {
+        "text": "Ez zait interesatzen\neta ez deitu berriz",
+        "singer": "Oier Etxeberria",
+        "tweeted": true,
+        "tweeted_at": "2024-12-26T09:15:18.479775"
     }
 ]
