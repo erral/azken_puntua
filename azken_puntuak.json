@@ -611,10 +611,6 @@
         "singer": "Amets Arzallus"
     },
     {
-        "text": "ez al zenidan esan\nzu zinela Messi",
-        "singer": "Amets Arzallus"
-    },
-    {
         "text": "Neri benetan gustatzen zait haur\nzaharren edertasuna",
         "singer": "Aitor Mendiluze"
     },
@@ -765,5 +761,11 @@
         "singer": "Oier Etxeberria",
         "tweeted": true,
         "tweeted_at": "2024-12-26T09:15:18.479775"
+    },
+    {
+        "text": "ez al zenidan esan\nzu zinela Messi",
+        "singer": "Amets Arzallus",
+        "tweeted": true,
+        "tweeted_at": "2024-12-27T09:15:30.170079"
     }
 ]
