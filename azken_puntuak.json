@@ -611,11 +611,6 @@
         "singer": "Aitor Mendiluze"
     },
     {
-        "text": "haur izu hura hazi egin da\neta mendekua nahi du",
-        "singer": "Aner \"Euzkitze\"",
-        "url": "https://bertsoa.eus/bertsoak/24711-hasierako-agurra-aner-euzkitze"
-    },
-    {
         "text": "igual harritzen zarete baina\nlagunak dauzkat ondoan",
         "singer": "Aner \"Euzkitze\"",
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
@@ -769,5 +764,12 @@
         "singer": "Amets Arzallus",
         "tweeted": true,
         "tweeted_at": "2024-12-28T09:15:08.859480"
+    },
+    {
+        "text": "haur izu hura hazi egin da\neta mendekua nahi du",
+        "singer": "Aner \"Euzkitze\"",
+        "url": "https://bertsoa.eus/bertsoak/24711-hasierako-agurra-aner-euzkitze",
+        "tweeted": true,
+        "tweeted_at": "2024-12-29T09:15:02.744506"
     }
 ]
