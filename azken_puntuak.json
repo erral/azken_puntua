@@ -621,11 +621,6 @@
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
     },
     {
-        "text": "askoz gehiago mugatuko dit\nniganako errukiak",
-        "singer": "Oihana Iguaran",
-        "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran"
-    },
-    {
         "text": "baino segi bertsotan\nmarabilatua\ntrentzak hoiek bezela\nkorapilatua!",
         "singer": "Agin Laburu",
         "url": "https://bertsoa.eus/bertsoak/24766-bukaerako-agurra-agin-laburu",
@@ -771,5 +766,12 @@
         "url": "https://bertsoa.eus/bertsoak/24711-hasierako-agurra-aner-euzkitze",
         "tweeted": true,
         "tweeted_at": "2024-12-29T09:15:02.744506"
+    },
+    {
+        "text": "askoz gehiago mugatuko dit\nniganako errukiak",
+        "singer": "Oihana Iguaran",
+        "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran",
+        "tweeted": true,
+        "tweeted_at": "2024-12-30T09:15:28.907012"
     }
 ]
