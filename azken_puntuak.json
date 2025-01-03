@@ -603,11 +603,6 @@
         "tweeted_at": "2024-12-06T09:15:40.363508"
     },
     {
-        "text": "igual harritzen zarete baina\nlagunak dauzkat ondoan",
-        "singer": "Aner \"Euzkitze\"",
-        "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze"
-    },
-    {
         "text": "baino segi bertsotan\nmarabilatua\ntrentzak hoiek bezela\nkorapilatua!",
         "singer": "Agin Laburu",
         "url": "https://bertsoa.eus/bertsoak/24766-bukaerako-agurra-agin-laburu",
@@ -779,5 +774,12 @@
         "singer": "Aitor Mendiluze",
         "tweeted": true,
         "tweeted_at": "2025-01-02T09:15:21.749945"
+    },
+    {
+        "text": "igual harritzen zarete baina\nlagunak dauzkat ondoan",
+        "singer": "Aner \"Euzkitze\"",
+        "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
+        "tweeted": true,
+        "tweeted_at": "2025-01-03T09:15:23.101688"
     }
 ]
