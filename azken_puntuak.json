@@ -597,12 +597,6 @@
         "tweeted_at": "2024-12-05T09:15:47.128724"
     },
     {
-        "text": "Ez dakizue zenbat\nmaite zaituztedan",
-        "singer": "Be\u00f1at Gaztelumendi",
-        "tweeted": true,
-        "tweeted_at": "2024-12-06T09:15:40.363508"
-    },
-    {
         "text": "baino segi bertsotan\nmarabilatua\ntrentzak hoiek bezela\nkorapilatua!",
         "singer": "Agin Laburu",
         "url": "https://bertsoa.eus/bertsoak/24766-bukaerako-agurra-agin-laburu",
@@ -781,5 +775,11 @@
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
         "tweeted": true,
         "tweeted_at": "2025-01-03T09:15:23.101688"
+    },
+    {
+        "text": "Ez dakizue zenbat\nmaite zaituztedan",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-04T09:15:03.575604"
     }
 ]
