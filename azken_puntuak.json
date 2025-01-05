@@ -42,13 +42,6 @@
         "tweeted_at": "2024-09-01T09:15:06.337775"
     },
     {
-        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
-        "singer": "Amets Arzalluz",
-        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
-        "tweeted": true,
-        "tweeted_at": "2024-09-02T09:15:40.942996"
-    },
-    {
         "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
@@ -781,5 +774,12 @@
         "singer": "Be\u00f1at Gaztelumendi",
         "tweeted": true,
         "tweeted_at": "2025-01-04T09:15:03.575604"
+    },
+    {
+        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
+        "singer": "Amets Arzalluz",
+        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
+        "tweeted": true,
+        "tweeted_at": "2025-01-05T09:15:04.234671"
     }
 ]
