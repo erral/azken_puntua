@@ -641,13 +641,6 @@
         "tweeted_at": "2024-12-14T09:15:20.193742"
     },
     {
-        "text": "hemendik kanpo ingu\ngure gauzatxuak!",
-        "singer": "Maider Arregi",
-        "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi",
-        "tweeted": true,
-        "tweeted_at": "2024-12-15T09:15:17.502336"
-    },
-    {
         "text": "Eibar degu herri bat\ndeskribaezina",
         "singer": "Aitor Mendiluze",
         "tweeted": true,
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
         "tweeted": true,
         "tweeted_at": "2025-01-05T09:15:04.234671"
+    },
+    {
+        "text": "hemendik kanpo ingu\ngure gauzatxuak!",
+        "singer": "Maider Arregi",
+        "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-06T09:15:46.529696"
     }
 ]
