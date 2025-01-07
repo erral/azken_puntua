@@ -182,13 +182,6 @@
         "tweeted_at": "2024-09-25T09:15:42.291966"
     },
     {
-        "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
-        "tweeted": true,
-        "tweeted_at": "2024-09-27T09:15:36.231035"
-    },
-    {
         "text": "zahartutakuan ez da begiratzen\ngaztetan oin bezain sarri",
         "singer": "Lazkao txiki",
         "url": "https://www.youtube.com/watch?v=PVaHIxLk6V4",
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi",
         "tweeted": true,
         "tweeted_at": "2025-01-06T09:15:46.529696"
+    },
+    {
+        "text": "lasai ez zaitez kezkatu\nzeozerk egin dit kalte",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-07T09:15:34.779844"
     }
 ]
