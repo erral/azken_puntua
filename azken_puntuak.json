@@ -203,13 +203,6 @@
         "tweeted_at": "2024-09-30T09:15:45.725621"
     },
     {
-        "text": "hor betirako damutuko zait\nhitzik egin ez izana",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173",
-        "tweeted": true,
-        "tweeted_at": "2024-10-01T09:15:39.310591"
-    },
-    {
         "text": "azal zimurtzen ari haiz motel\nLazkao txiki bezela",
         "singer": "Lazkao txiki",
         "url": "https://youtu.be/PVaHIxLk6V4?si=INyoh8uO3RkGDKQg&t=92",
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/23047-ganbara-nerea-ibarzabal-salegi",
         "tweeted": true,
         "tweeted_at": "2025-01-07T09:15:34.779844"
+    },
+    {
+        "text": "hor betirako damutuko zait\nhitzik egin ez izana",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173",
+        "tweeted": true,
+        "tweeted_at": "2025-01-08T09:15:31.068408"
     }
 ]
