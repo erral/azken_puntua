@@ -583,13 +583,6 @@
         "tweeted_at": "2024-12-07T09:15:23.854494"
     },
     {
-        "text": "baina aldiro galdu nuena\ndago zuen begietan!",
-        "singer": "Oihana Iguaran",
-        "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran",
-        "tweeted": true,
-        "tweeted_at": "2024-12-08T09:15:20.159313"
-    },
-    {
         "text": "askok txantxetan galdetu izan dit\n\"non dago haurraren aita?\"",
         "singer": "Aner \"Euzkitze\"",
         "url": "https://bertsoa.eus/bertsoak/24728-bakarka-aner-euzkitze",
@@ -781,5 +774,12 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=vTARnfXy1aKRQUlJ&t=173",
         "tweeted": true,
         "tweeted_at": "2025-01-08T09:15:31.068408"
+    },
+    {
+        "text": "baina aldiro galdu nuena\ndago zuen begietan!",
+        "singer": "Oihana Iguaran",
+        "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran",
+        "tweeted": true,
+        "tweeted_at": "2025-01-09T09:15:36.422334"
     }
 ]
