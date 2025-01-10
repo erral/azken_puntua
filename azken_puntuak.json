@@ -63,13 +63,6 @@
         "tweeted_at": "2024-09-06T09:15:19.503225"
     },
     {
-        "text": "ya bardin deust finalik\neitten ez bada be!",
-        "singer": "Onintza Enbeita",
-        "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
-        "tweeted": true,
-        "tweeted_at": "2024-09-07T09:14:53.936118"
-    },
-    {
         "text": "behar bada ez duzu\nezer sinetsiko\nbaina nik ez nituzke\nbegiak itxiko",
         "singer": "Nerea Ibarzabal",
         "url": "https://bertsoa.eus/bertsoak/20205-hasierako-agurra",
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/24758-bakarka-oihana-iguaran",
         "tweeted": true,
         "tweeted_at": "2025-01-09T09:15:36.422334"
+    },
+    {
+        "text": "ya bardin deust finalik\neitten ez bada be!",
+        "singer": "Onintza Enbeita",
+        "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-10T09:15:39.369190"
     }
 ]
