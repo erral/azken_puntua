@@ -735,12 +735,6 @@
         "tweeted_at": "2025-01-03T09:15:23.101688"
     },
     {
-        "text": "Ez dakizue zenbat\nmaite zaituztedan",
-        "singer": "Be\u00f1at Gaztelumendi",
-        "tweeted": true,
-        "tweeted_at": "2025-01-04T09:15:03.575604"
-    },
-    {
         "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
         "singer": "Amets Arzalluz",
         "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
@@ -781,5 +775,11 @@
         "url": "https://bertsoa.eus/bertsoak/23052-bukaerako-agurra-onintza-enbeita-maguregi",
         "tweeted": true,
         "tweeted_at": "2025-01-10T09:15:39.369190"
+    },
+    {
+        "text": "Ez dakizue zenbat\nmaite zaituztedan",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-11T09:15:06.159700"
     }
 ]
