@@ -588,12 +588,6 @@
         "tweeted_at": "2024-12-11T09:15:42.982058"
     },
     {
-        "text": "Pozik hartuko genuke askok\nbere erre karratua",
-        "singer": "Jone Uria",
-        "tweeted": true,
-        "tweeted_at": "2024-12-12T09:15:43.903130"
-    },
-    {
         "text": "Nik izugarri maite zaitut zu\npaper gabe ere",
         "singer": "Nerea Elustondo",
         "tweeted": true,
@@ -781,5 +775,11 @@
         "url": "https://youtu.be/PVaHIxLk6V4?si=xDudWI2lCuLFDYTG&t=44",
         "tweeted": true,
         "tweeted_at": "2025-01-12T09:14:55.200527"
+    },
+    {
+        "text": "Pozik hartuko genuke askok\nbere erre karratua",
+        "singer": "Jone Uria",
+        "tweeted": true,
+        "tweeted_at": "2025-01-13T09:16:05.259124"
     }
 ]
