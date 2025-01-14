@@ -722,13 +722,6 @@
         "tweeted_at": "2025-01-03T09:15:23.101688"
     },
     {
-        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
-        "singer": "Amets Arzalluz",
-        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
-        "tweeted": true,
-        "tweeted_at": "2025-01-05T09:15:04.234671"
-    },
-    {
         "text": "hemendik kanpo ingu\ngure gauzatxuak!",
         "singer": "Maider Arregi",
         "url": "https://bertsoa.eus/bertsoak/24763-bukaerako-agurra-maider-arregi",
@@ -781,5 +774,12 @@
         "singer": "Jone Uria",
         "tweeted": true,
         "tweeted_at": "2025-01-13T09:16:05.259124"
+    },
+    {
+        "text": "ta ibili gabe inori pasaporterik eskatzen\neuskaratik has gaitezen bizitza oro askatzen",
+        "singer": "Amets Arzalluz",
+        "url": "https://bertsoa.eus/bertsoak/21543-bukaera-agurra-amets-arzallus",
+        "tweeted": true,
+        "tweeted_at": "2025-01-14T09:15:20.322129"
     }
 ]
