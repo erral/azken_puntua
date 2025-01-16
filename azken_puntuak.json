@@ -294,13 +294,6 @@
         "tweeted_at": "2024-10-22T09:15:29.595779"
     },
     {
-        "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
-        "singer": "Unai Iturriaga @uiturriaga",
-        "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
-        "tweeted": true,
-        "tweeted_at": "2024-10-24T09:15:29.297027"
-    },
-    {
         "text": "kontuz neguan ez dit\nedozerk balio",
         "singer": "Xabat Galletebeita",
         "url": "https://bertsoa.eus/bertsoak/22941-hasierako-agurra-xabat-galletebeitia",
@@ -781,5 +774,12 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=ABAcavLBGoITiDr4&t=120",
         "tweeted": true,
         "tweeted_at": "2025-01-15T09:15:18.422339"
+    },
+    {
+        "text": "suzko bonbekin lehenengo eta\nisiltasunagaz gero",
+        "singer": "Unai Iturriaga @uiturriaga",
+        "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
+        "tweeted": true,
+        "tweeted_at": "2025-01-16T09:15:19.775576"
     }
 ]
