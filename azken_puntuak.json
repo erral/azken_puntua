@@ -450,13 +450,6 @@
         "tweeted_at": "2024-11-19T09:15:43.382482"
     },
     {
-        "text": "Ta hala gabiltza kaleak\ngarbitu eta garbitu",
-        "singer": "Be\u00f1at Gaztelumendi",
-        "url": "https://bertsoa.eus/bertsoak/24673-bakarka-benat-gaztelumendi",
-        "tweeted": true,
-        "tweeted_at": "2024-11-20T09:15:38.893201"
-    },
-    {
         "text": "Orain ulertu behar al nuen\nkirolaren prezioa",
         "singer": "Eli Pagola",
         "tweeted": true,
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/9814-bonbardaketen-urteurrena-iturriaga",
         "tweeted": true,
         "tweeted_at": "2025-01-16T09:15:19.775576"
+    },
+    {
+        "text": "Ta hala gabiltza kaleak\ngarbitu eta garbitu",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "url": "https://bertsoa.eus/bertsoak/24673-bakarka-benat-gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-17T09:15:12.520011"
     }
 ]
