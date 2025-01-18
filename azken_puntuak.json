@@ -161,13 +161,6 @@
         "tweeted_at": "2024-09-23T09:16:02.468996"
     },
     {
-        "text": "batez ere da hotzikara bat\nbizkarrezurrean gora",
-        "singer": "Jon Gurrutxaga",
-        "url": "https://bertsoa.eus/bertsoak/24343-hasierako-agurra-jon-gurrutxaga",
-        "tweeted": true,
-        "tweeted_at": "2024-09-24T09:15:34.721134"
-    },
-    {
         "text": "ta betikoa erantzun diet\nnekatuta baina pozik",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/24673-bakarka-benat-gaztelumendi",
         "tweeted": true,
         "tweeted_at": "2025-01-17T09:15:12.520011"
+    },
+    {
+        "text": "batez ere da hotzikara bat\nbizkarrezurrean gora",
+        "singer": "Jon Gurrutxaga",
+        "url": "https://bertsoa.eus/bertsoak/24343-hasierako-agurra-jon-gurrutxaga",
+        "tweeted": true,
+        "tweeted_at": "2025-01-18T09:14:59.422940"
     }
 ]
