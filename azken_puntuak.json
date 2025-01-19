@@ -245,13 +245,6 @@
         "tweeted_at": "2024-10-13T09:15:12.742067"
     },
     {
-        "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
-        "singer": "Maialen Lujanbio",
-        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
-        "tweeted": true,
-        "tweeted_at": "2024-10-15T09:15:32.411738"
-    },
-    {
         "text": "nik ja ohea ez dut ikusten\nbeste guztiek bezala",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/24343-hasierako-agurra-jon-gurrutxaga",
         "tweeted": true,
         "tweeted_at": "2025-01-18T09:14:59.422940"
+    },
+    {
+        "text": "etorriko nintzake ez nitzake damu\nkoro hau zenutela jakin izan banu",
+        "singer": "Maialen Lujanbio",
+        "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
+        "tweeted": true,
+        "tweeted_at": "2025-01-19T09:14:53.497394"
     }
 ]
