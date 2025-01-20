@@ -154,13 +154,6 @@
         "tweeted_at": "2024-09-22T09:15:03.808048"
     },
     {
-        "text": "ta askok hala pentsatu arren\nhau ez da nire errua",
-        "singer": "Ane Zuazubizkar",
-        "url": "https://bertsoa.eus/bertsoak/24347-bakarka-ane-zuazubiskar",
-        "tweeted": true,
-        "tweeted_at": "2024-09-23T09:16:02.468996"
-    },
-    {
         "text": "ta betikoa erantzun diet\nnekatuta baina pozik",
         "singer": "Uxue Alberdi",
         "url": "https://bertsoa.eus/bertsoak/8274-kartzela",
@@ -781,5 +774,12 @@
         "url": "https://m.youtube.com/watch?v=JdzCwEW4gPY",
         "tweeted": true,
         "tweeted_at": "2025-01-19T09:14:53.497394"
+    },
+    {
+        "text": "ta askok hala pentsatu arren\nhau ez da nire errua",
+        "singer": "Ane Zuazubizkar",
+        "url": "https://bertsoa.eus/bertsoak/24347-bakarka-ane-zuazubiskar",
+        "tweeted": true,
+        "tweeted_at": "2025-01-20T09:15:30.501650"
     }
 ]
