@@ -189,13 +189,6 @@
         "tweeted_at": "2024-10-03T09:15:31.848170"
     },
     {
-        "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
-        "singer": "Nerea Ibarzabal",
-        "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
-        "tweeted": true,
-        "tweeted_at": "2024-10-06T09:15:17.138279"
-    },
-    {
         "text": "ni soilik nago oholtzan baina\nekipo bat gara!",
         "singer": "Amaia Agirre",
         "url": "https://bertsoa.eus/bertsoak/10756-hasierako-agurra-amaia-agirre",
@@ -781,5 +774,12 @@
         "url": "https://bertsoa.eus/bertsoak/24673-bakarka-benat-gaztelumendi",
         "tweeted": true,
         "tweeted_at": "2025-01-21T09:15:24.219842"
+    },
+    {
+        "text": "berandu baina ulertu dezan\nberak zenbat galdu duen",
+        "singer": "Nerea Ibarzabal",
+        "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
+        "tweeted": true,
+        "tweeted_at": "2025-01-22T09:15:22.878758"
     }
 ]
