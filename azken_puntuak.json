@@ -42,13 +42,6 @@
         "tweeted_at": "2024-09-01T09:15:06.337775"
     },
     {
-        "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
-        "singer": "Andoni Ega\u00f1a",
-        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
-        "tweeted": true,
-        "tweeted_at": "2024-09-04T09:15:26.543589"
-    },
-    {
         "text": "zuen txaloak beretzat dira\nnere txapela ere bai",
         "singer": "Andoni Ega\u00f1a",
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/juqc8",
@@ -781,5 +774,12 @@
         "url": "https://youtu.be/GIG2eObyuJs?si=bN5rwThg02XdYz-f&t=285",
         "tweeted": true,
         "tweeted_at": "2025-01-22T09:15:22.878758"
+    },
+    {
+        "text": "zure irriparra;\nhorixe da inporta\nzaidan bakarra",
+        "singer": "Andoni Ega\u00f1a",
+        "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
+        "tweeted": true,
+        "tweeted_at": "2025-01-23T09:15:30.891202"
     }
 ]
