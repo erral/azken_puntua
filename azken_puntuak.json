@@ -481,12 +481,6 @@
         "tweeted_at": "2024-12-02T09:16:03.154921"
     },
     {
-        "text": "Aurrena zaindu ta estimatu\netxekoen sutondoa",
-        "singer": "Oier Etxeberria",
-        "tweeted": true,
-        "tweeted_at": "2024-12-03T09:15:46.929478"
-    },
-    {
         "text": "Ni gehiago zatitzen\nkosta behar zaizu",
         "singer": "Be\u00f1at Gaztelumendi",
         "tweeted": true,
@@ -781,5 +775,11 @@
         "url": "https://bdb.bertsozale.eus/web/bertsoa/view/jpb94",
         "tweeted": true,
         "tweeted_at": "2025-01-23T09:15:30.891202"
+    },
+    {
+        "text": "Aurrena zaindu ta estimatu\netxekoen sutondoa",
+        "singer": "Oier Etxeberria",
+        "tweeted": true,
+        "tweeted_at": "2025-01-24T09:15:21.328042"
     }
 ]
