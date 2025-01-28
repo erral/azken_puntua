@@ -22,19 +22,19 @@ def get_random_item_to_toot():
     with open("azken_puntuak.json", "r") as fp:
         dictionary = json.load(fp)
         not_tweeted = [item for item in dictionary if "tweeted" not in item]
-        word = random.choice(dictionary)
-        while not_tweeted and word and word.get("tweeted"):
-            word = random.choice(dictionary)
-
-    word["tweeted"] = True
-    word["tweeted_at"] = datetime.datetime.utcnow().isoformat()
-    dictionary.remove(word)
-    dictionary.append(word)
-
-    with open("azken_puntuak.json", "w") as fp:
-        json.dump(dictionary, fp, indent=4)
-
-    return word
+        if not_tweeted:
+            word = random.choice(not_tweeted)
+        
+            word["tweeted"] = True
+            word["tweeted_at"] = datetime.datetime.utcnow().isoformat()
+            dictionary.remove(word)
+            dictionary.append(word)
+        
+            with open("azken_puntuak.json", "w") as fp:
+                json.dump(dictionary, fp, indent=4)
+        
+            return word
+    return None
 
 
 def toot_item(item):
