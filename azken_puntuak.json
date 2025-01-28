@@ -449,13 +449,6 @@
         "tweeted_at": "2024-11-28T09:15:46.027502"
     },
     {
-        "text": "Horixe da Donostiaz\nkontatzen ez digutena",
-        "singer": "Be\u00f1at Gaztelumendi",
-        "url": "https://bertsoa.eus/bertsoak/24673-bakarka-benat-gaztelumendi",
-        "tweeted": true,
-        "tweeted_at": "2024-11-29T09:15:51.846117"
-    },
-    {
         "text": "Baserritarrak asko goratu\nta Mercadonan erosi",
         "singer": "Nerea Elustondo",
         "tweeted": true,
@@ -781,5 +774,12 @@
         "singer": "Eli Pagola",
         "tweeted": true,
         "tweeted_at": "2025-01-27T09:15:41.054339"
+    },
+    {
+        "text": "Horixe da Donostiaz\nkontatzen ez digutena",
+        "singer": "Be\u00f1at Gaztelumendi",
+        "url": "https://bertsoa.eus/bertsoak/24673-bakarka-benat-gaztelumendi",
+        "tweeted": true,
+        "tweeted_at": "2025-01-28T09:15:26.801545"
     }
 ]
